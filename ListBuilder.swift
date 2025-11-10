@@ -35,65 +35,75 @@ private enum ListBuilder {
         static let outputPath = "combined-adguard-list.txt"
     }
 
-    private static func downloadList(from urlString: String) async -> [String] {
+    private static func downloadList(from urlString: String) -> [String] {
         guard let url = URL(string: urlString) else {
             print("Invalid URL: \(urlString)")
             return []
         }
 
-        // Use URLSession.shared (supported in Swift 5.9+ on Linux)
-        do {
-            let (data, response) = try await URLSession.shared.data(from: url)
+        // Create basic configuration (no .default; use init())
+        let config = URLSessionConfiguration()
+        let session = URLSession(configuration: config)
 
-            guard let httpResponse = response as? HTTPURLResponse, httpResponse.statusCode == 200 else {
-                print("Invalid response for \(urlString): \(response)")
-                return []
+        // Synchronous: Use dataTask with semaphore to block until complete
+        var result: [String] = []
+        let semaphore = DispatchSemaphore(value: 0)
+        let task = session.dataTask(with: url) { data, response, error in
+            defer { semaphore.signal() }  // Ensure signal on exit
+
+            if let error = error {
+                print("Failed to download \(urlString): \(error)")
+                return
             }
 
-            // Decode as UTF-8 string
-            guard let content = String( data, encoding: .utf8) else {
+            guard let httpResponse = response as? HTTPURLResponse,
+                  httpResponse.statusCode == 200 else {
+                print("Invalid response for \(urlString): \(response ?? "nil")")
+                return
+            }
+
+            // Decode with explicit label (fixes inference)
+            guard let content = String( data ?? Data(), encoding: .utf8) else {
                 print("Failed to decode UTF-8 for \(urlString)")
-                return []
+                return
             }
 
-            // Process lines: Split by "\n", trim whitespace only, filter empty/comments
-            // Manual newline handling for compatibility (avoids .whitespacesAndNewlines inference)
+            // Process lines: Split by "\n", trim with qualified CharacterSet, filter
+            let whitespaceSet = CharacterSet.whitespaces
             let lines = content
                 .components(separatedBy: "\n")
-                .map { $0.trimmingCharacters(in: .whitespaces) }  // Trim spaces/tabs
+                .map { $0.trimmingCharacters(in: whitespaceSet) }  // Trim spaces/tabs
                 .filter { line in
                     let isNotEmpty = !line.isEmpty
                     let isNotComment = !line.hasPrefix("#")
-                    let isNotJustNewlines = !line.allSatisfy { $0 == "\r" || $0 == "\n" }  // Handle lingering newlines
+                    // Manual newline check (no .newlines)
+                    let isNotJustNewlines = !line.allSatisfy { char in
+                        char == "\r" || char == "\n" || char.isWhitespace
+                    }
                     return isNotEmpty && isNotComment && isNotJustNewlines
                 }
 
+            result = lines
             print("Successfully downloaded \(lines.count) lines from \(urlString)")
-            return lines
-        } catch {
-            print("Failed to download \(urlString): \(error)")
-            return []
         }
+
+        task.resume()
+        semaphore.wait()  // Block current thread until done
+
+        return result
     }
 
-    static func buildList() async throws {
+    static func buildList() throws {
         var allLines = Set<String>()
 
-        try await withThrowingTaskGroup(of: [String].self) { group in
-            for list in Constants.blocklists {
-                group.addTask {
-                    await downloadList(from: list.url)
-                }
+        // Sequential loop (no async; compatible with old Swift)
+        for list in Constants.blocklists {
+            let lines = downloadList(from: list.url)
+            allLines.insert("********************--************************")
+            for line in lines {
+                allLines.insert(line)
             }
-
-            for try await lines in group {
-                // Insert separator (no name here, per your latest code; add if needed)
-                allLines.insert("********************--************************")
-                for line in lines {
-                    allLines.insert(line)
-                }
-                allLines.insert("********************--************************")
-            }
+            allLines.insert("********************--************************")
         }
 
         // Sort and combine
@@ -111,16 +121,10 @@ private enum ListBuilder {
     }
 }
 
-// Single execution with DispatchGroup for blocking
-let dispatchGroup = DispatchGroup()
-dispatchGroup.enter()
-Task {
-    defer { dispatchGroup.leave() }
-    do {
-        try await ListBuilder.buildList()
-        print("All tasks completed successfully.")
-    } catch {
-        print("Build failed: \(error)")
-    }
+// Synchronous main call (no Task/DispatchGroup needed)
+do {
+    try ListBuilder.buildList()
+    print("All tasks completed successfully.")
+} catch {
+    print("Build failed: \(error)")
 }
-dispatchGroup.wait()  // Blocks until done

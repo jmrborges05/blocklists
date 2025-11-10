@@ -4,66 +4,61 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 0 * * *'  # Every day at midnight UTC
+    - cron: '0 0 * * *'  # Midnight UTC daily
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Free, fast Linux runner
+    runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
+    - name: Checkout
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}  # For push permissions
+        token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Install Swift
-      uses: swift-actions/setup-swift@v2  # Official action to install latest Swift (5.10+)
+    - name: Install Swift 5.10
+      uses: swift-actions/setup-swift@v2
       with:
-        swift-version: "5.10"  # Matches iOS/macOS compatibility; use "latest" for newest
+        swift-version: "5.10"  # Ensures compatible Foundation
 
-    - name: Run Swift script
+    - name: Run script
       run: |
         swift ListBuilder.swift
-        echo "Script completed. Output file: $(ls -la combined-adguard-list.txt)"
-      # env:
-        # Optional: Set DEBIAN_FRONTEND=noninteractive if apt prompts appear (rare)
+        echo "Output: $(ls -la combined-adguard-list.txt)"
 
-    - name: Upload output as artifact (optional, for manual download)
+    - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
         name: combined-blocklist
         path: combined-adguard-list.txt
-      if: always()  # Upload even on failure
+      if: always()
 
   commit-changes:
-    needs: build  # Run only if build succeeds
+    needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'  # Only on main
+    if: github.ref == 'refs/heads/main'
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        fetch-depth: 0  # For git history
+        fetch-depth: 0
 
-    - name: Install Swift (for diff if needed)
+    - name: Install Swift 5.10
       uses: swift-actions/setup-swift@v2
       with:
         swift-version: "5.10"
 
-    - name: Check for file changes
+    - name: Check changes
       id: changes
       run: |
         if [ -f "combined-adguard-list.txt" ]; then
           git add combined-adguard-list.txt
           git diff --staged --quiet || echo "changes=true" >> $GITHUB_OUTPUT
-        else
-          echo "No output file generated"
         fi
 
-    - name: Commit and push changes
+    - name: Commit push
       if: steps.changes.outputs.changes == 'true'
       run: |
         git config user.name "GitHub Actions Bot"
         git config user.email "actions@github.com"
-        git commit -m "Update combined-adguard-list.txt [skip ci]"  # [skip ci] avoids re-triggering
+        git commit -m "Update combined-adguard-list.txt [skip ci]"
         git push

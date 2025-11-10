@@ -41,8 +41,12 @@ private enum ListBuilder {
             return []
         }
 
+        // Linux-compatible: Create a new URLSession (no .shared on Linux Foundation)
+        let config = URLSessionConfiguration.default
+        let session = URLSession(configuration: config)
+
         do {
-            let (data, response) = try await URLSession.shared.data(from: url)
+            let (data, response) = try await session.data(from: url)
 
             guard let httpResponse = response as? HTTPURLResponse, httpResponse.statusCode == 200 else {
                 print("Invalid response for \(urlString): \(response)")
@@ -55,10 +59,10 @@ private enum ListBuilder {
                 return []
             }
 
-            // Process lines: Split, trim empty, filter comments
+            // Process lines: Split by "\n" (Linux-compatible), trim empty, filter comments
             let lines = content
-                .components(separatedBy: .newlines)
-                .filter { !$0.trimmingCharacters(in: .whitespaces).isEmpty && !$0.hasPrefix("#") }
+                .components(separatedBy: "\n")
+                .filter { !$0.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty && !$0.hasPrefix("#") }
 
             print("Successfully downloaded \(lines.count) lines from \(urlString)")
             return lines
@@ -91,22 +95,27 @@ private enum ListBuilder {
         let sortedLines = allLines.sorted()
         let combinedList = sortedLines.joined(separator: "\n")
 
+        // Clear existing file if present (avoids appends)
+        if FileManager.default.fileExists(atPath: Constants.outputPath) {
+            try? FileManager.default.removeItem(atPath: Constants.outputPath)
+        }
+
         // Write to file (synchronous, as it's I/O after network)
         try combinedList.write(toFile: Constants.outputPath, atomically: true, encoding: .utf8)
         print("Combined deduplicated list written to \(Constants.outputPath) with \(sortedLines.count) unique lines")
     }
-
 }
 
-// Run the async build in a Task, then wait for completion
+// Single execution: Use DispatchGroup to block until complete (no duplicates)
+let dispatchGroup = DispatchGroup()
+dispatchGroup.enter()
 Task {
+    defer { dispatchGroup.leave() }
     do {
         try await ListBuilder.buildList()
-        print("All tasks completed successfully.")  // Signal end
+        print("All tasks completed successfully.")
     } catch {
         print("Build failed: \(error)")
     }
 }
-
-// Wait for the task to finish (keeps run loop alive; adjust timeout as needed)
-RunLoop.main.run(until: Date(timeIntervalSinceNow: 120))  // 2 minutes; script exits after
+dispatchGroup.wait()  // Blocks main thread until done

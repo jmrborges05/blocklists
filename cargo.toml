@@ -1,0 +1,10 @@
+[package]
+name = "blocklist-builder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.0", features = ["full"] }
+reqwest = { version = "0.11", features = ["default"] }
+futures = "0.3"
+anyhow = "1.0"

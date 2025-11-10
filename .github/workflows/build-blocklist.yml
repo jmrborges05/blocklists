@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 0 * * *'  # Midnight UTC daily
+    - cron: '0 0 * * *'  # Midnight UTC
 
 jobs:
   build:
@@ -15,15 +15,14 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Install Swift 5.10
-      uses: swift-actions/setup-swift@v2
-      with:
-        swift-version: "5.10"  # Ensures compatible Foundation
+    - name: Cache Rust dependencies
+      uses: swatinem/rust-cache@v2  # Speeds up builds
 
-    - name: Run script
+    - name: Build and run
       run: |
-        swift ListBuilder.swift
-        echo "Output: $(ls -la combined-adguard-list.txt)"
+        cargo build --release
+        ./target/release/blocklist-builder
+        ls -la combined-adguard-list.txt
 
     - name: Upload artifact
       uses: actions/upload-artifact@v4
@@ -42,10 +41,8 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0
 
-    - name: Install Swift 5.10
-      uses: swift-actions/setup-swift@v2
-      with:
-        swift-version: "5.10"
+    - name: Cache Rust
+      uses: swatinem/rust-cache@v2
 
     - name: Check changes
       id: changes

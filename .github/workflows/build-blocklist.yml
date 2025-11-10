@@ -1,0 +1,69 @@
+name: Build Blocklists
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *'  # Every day at midnight UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Free, fast Linux runner
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # For push permissions
+
+    - name: Install Swift
+      uses: swift-actions/setup-swift@v2  # Official action to install latest Swift (5.10+)
+      with:
+        swift-version: "5.10"  # Matches iOS/macOS compatibility; use "latest" for newest
+
+    - name: Run Swift script
+      run: |
+        swift ListBuilder.swift
+        echo "Script completed. Output file: $(ls -la combined-adguard-list.txt)"
+      env:
+        # Optional: Set DEBIAN_FRONTEND=noninteractive if apt prompts appear (rare)
+
+    - name: Upload output as artifact (optional, for manual download)
+      uses: actions/upload-artifact@v4
+      with:
+        name: combined-blocklist
+        path: combined-adguard-list.txt
+      if: always()  # Upload even on failure
+
+  commit-changes:
+    needs: build  # Run only if build succeeds
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'  # Only on main
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # For git history
+
+    - name: Install Swift (for diff if needed)
+      uses: swift-actions/setup-swift@v2
+      with:
+        swift-version: "5.10"
+
+    - name: Check for file changes
+      id: changes
+      run: |
+        if [ -f "combined-adguard-list.txt" ]; then
+          git add combined-adguard-list.txt
+          git diff --staged --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+        else
+          echo "No output file generated"
+        fi
+
+    - name: Commit and push changes
+      if: steps.changes.outputs.changes == 'true'
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "actions@github.com"
+        git commit -m "Update combined-adguard-list.txt [skip ci]"  # [skip ci] avoids re-triggering
+        git push

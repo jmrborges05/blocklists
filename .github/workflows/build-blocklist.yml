@@ -24,7 +24,7 @@ jobs:
       run: |
         swift ListBuilder.swift
         echo "Script completed. Output file: $(ls -la combined-adguard-list.txt)"
-      env:
+      # env:
         # Optional: Set DEBIAN_FRONTEND=noninteractive if apt prompts appear (rare)
 
     - name: Upload output as artifact (optional, for manual download)

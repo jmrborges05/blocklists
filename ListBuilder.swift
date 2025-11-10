@@ -41,12 +41,9 @@ private enum ListBuilder {
             return []
         }
 
-        // Linux-compatible: Create a new URLSession (no .shared on Linux Foundation)
-        let config = URLSessionConfiguration.default
-        let session = URLSession(configuration: config)
-
+        // Use URLSession.shared (supported in Swift 5.9+ on Linux)
         do {
-            let (data, response) = try await session.data(from: url)
+            let (data, response) = try await URLSession.shared.data(from: url)
 
             guard let httpResponse = response as? HTTPURLResponse, httpResponse.statusCode == 200 else {
                 print("Invalid response for \(urlString): \(response)")
@@ -54,15 +51,22 @@ private enum ListBuilder {
             }
 
             // Decode as UTF-8 string
-            guard let content = String(data: data, encoding: .utf8) else {
+            guard let content = String( data, encoding: .utf8) else {
                 print("Failed to decode UTF-8 for \(urlString)")
                 return []
             }
 
-            // Process lines: Split by "\n" (Linux-compatible), trim empty, filter comments
+            // Process lines: Split by "\n", trim whitespace only, filter empty/comments
+            // Manual newline handling for compatibility (avoids .whitespacesAndNewlines inference)
             let lines = content
                 .components(separatedBy: "\n")
-                .filter { !$0.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty && !$0.hasPrefix("#") }
+                .map { $0.trimmingCharacters(in: .whitespaces) }  // Trim spaces/tabs
+                .filter { line in
+                    let isNotEmpty = !line.isEmpty
+                    let isNotComment = !line.hasPrefix("#")
+                    let isNotJustNewlines = !line.allSatisfy { $0 == "\r" || $0 == "\n" }  // Handle lingering newlines
+                    return isNotEmpty && isNotComment && isNotJustNewlines
+                }
 
             print("Successfully downloaded \(lines.count) lines from \(urlString)")
             return lines
@@ -83,6 +87,7 @@ private enum ListBuilder {
             }
 
             for try await lines in group {
+                // Insert separator (no name here, per your latest code; add if needed)
                 allLines.insert("********************--************************")
                 for line in lines {
                     allLines.insert(line)
@@ -91,22 +96,22 @@ private enum ListBuilder {
             }
         }
 
-        // Sort and combine (synchronous after awaits)
+        // Sort and combine
         let sortedLines = allLines.sorted()
         let combinedList = sortedLines.joined(separator: "\n")
 
-        // Clear existing file if present (avoids appends)
+        // Clear existing file if present
         if FileManager.default.fileExists(atPath: Constants.outputPath) {
-            try? FileManager.default.removeItem(atPath: Constants.outputPath)
+            try FileManager.default.removeItem(atPath: Constants.outputPath)
         }
 
-        // Write to file (synchronous, as it's I/O after network)
+        // Write to file
         try combinedList.write(toFile: Constants.outputPath, atomically: true, encoding: .utf8)
         print("Combined deduplicated list written to \(Constants.outputPath) with \(sortedLines.count) unique lines")
     }
 }
 
-// Single execution: Use DispatchGroup to block until complete (no duplicates)
+// Single execution with DispatchGroup for blocking
 let dispatchGroup = DispatchGroup()
 dispatchGroup.enter()
 Task {
@@ -118,4 +123,4 @@ Task {
         print("Build failed: \(error)")
     }
 }
-dispatchGroup.wait()  // Blocks main thread until done
+dispatchGroup.wait()  // Blocks until done

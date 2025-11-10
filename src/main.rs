@@ -28,9 +28,12 @@ async fn main() -> Result<()> {
         ("The Block List Project - Tracking List (adguard)", "https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt"),
         ("chapeubranco / filtros trackers", "https://codeberg.org/chapeubranco/filtros/raw/branch/master/filtros/filtros-trackers.txt"),
         ("Lista Anti Nónio", "https://raw.githubusercontent.com/brunomiguel/antinonio/refs/heads/master/antinonio-adguard.txt"),
+        ("The Block List Project - Scam List (adguard)", "https://blocklistproject.github.io/Lists/adguard/scam-ags.txt"),
+        ("The Block List Project - Malware List (adguard)", "https://blocklistproject.github.io/Lists/adguard/malware-ags.txt"),
+        ("The Block List Project - Ads List (adguard)", "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"),
     ];
 
-    let all_lines = download_and_process_lists(&blocklists).await?;
+    let (all_lines, duplicates) = download_and_process_lists(&blocklists).await?;
 
     // Sort (HashSet iter is unordered; collect and sort for deterministic output)
     let mut sorted_lines: Vec<String> = all_lines.into_iter().collect();
@@ -45,11 +48,23 @@ async fn main() -> Result<()> {
     fs::write(output_path, combined.as_bytes())?;
     println!("Combined deduplicated list written to {} with {} unique lines", output_path, sorted_lines.len());
 
+    // Print duplicated entries
+    if !duplicates.is_empty() {
+        println!("\nDuplicated Entries:");
+        for dup in duplicates {
+            println!("{}", dup);
+        }
+    } else {
+        println!("\nNo duplicated entries found.");
+    }
+
     Ok(())
 }
 
-async fn download_and_process_lists(blocklists: &Vec<(&str, &str)>) -> Result<HashSet<String>> {
+async fn download_and_process_lists(blocklists: &Vec<(&str, &str)>) -> Result<(HashSet<String>, Vec<String>)> {
     let mut all_lines = HashSet::new();
+    let mut seen_lines = HashSet::new();
+    let mut duplicates = HashSet::new();
 
     // Spawn concurrent tasks for all lists
     let futures: Vec<_> = blocklists.iter().map(|(name, url)| {
@@ -66,6 +81,9 @@ async fn download_and_process_lists(blocklists: &Vec<(&str, &str)>) -> Result<Ha
             Ok(Ok((list_name, lines))) => {
                 all_lines.insert(format!("Blocklist -> {}", list_name));
                 for line in lines {
+                    if !seen_lines.insert(line.clone()) {
+                        duplicates.insert(line.clone());
+                    }
                     all_lines.insert(line);
                 }
                 all_lines.insert("********************--************************".to_string());
@@ -78,8 +96,9 @@ async fn download_and_process_lists(blocklists: &Vec<(&str, &str)>) -> Result<Ha
             }
         }
     }
-
-    Ok(all_lines)
+    let mut duplicates_vec: Vec<String> = duplicates.into_iter().collect();
+    duplicates_vec.sort();
+    Ok((all_lines, duplicates_vec))
 }
 
 async fn download_list(name: &str, url: &str) -> Result<(String, Vec<String>)> {

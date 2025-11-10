@@ -28,7 +28,7 @@ async fn main() -> Result<()> {
         ("The Block List Project - Tracking List (adguard)", "https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt"),
         ("chapeubranco / filtros trackers", "https://codeberg.org/chapeubranco/filtros/raw/branch/master/filtros/filtros-trackers.txt"),
         ("Lista Anti Nónio", "https://raw.githubusercontent.com/brunomiguel/antinonio/refs/heads/master/antinonio-adguard.txt"),
-        ("The Block List Project - Ads List (adguard)", "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"),
+        // ("The Block List Project - Ads List (adguard)", "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"),
         // ("The Block List Project - Scam List (adguard)", "https://blocklistproject.github.io/Lists/adguard/scam-ags.txt"),
         // ("The Block List Project - Malware List (adguard)", "https://blocklistproject.github.io/Lists/adguard/malware-ags.txt"),
     ];

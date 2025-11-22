@@ -203,7 +203,7 @@
 ! By advanced we mean the following rule types: CSS, scriptlets, HTML filtering (`$$` marker), JS.
 ! CNAME: paymaya.customlinks.appsflyer.com
 ! Chartbeat
-! Checksum: u7RUAi0BFANEtmw3UJU2JA
+! Checksum: vSpG3UH/B2dVGUL0L9y6NA
 ! Chinese
 ! Chinese google (https://github.com/easylist/easylist/issues/15643)
 ! ClickAdu
@@ -321,7 +321,7 @@
 ! EdgeTag : edgetag.io, attntags.com, emtag.net, xray-superpixel.com disguised trackers
 ! Email: easylist@protonmail.com 
 ! Ensighten : nc0.co disguised trackers
-! Entries: 259397
+! Entries: 259438
 ! Estonian
 ! Etracker : customer.etracker.com disguised trackers
 ! Eulerian : eulerian.net disguised trackers
@@ -448,15 +448,15 @@
 ! Last modified: 2025-11-18T07:08:27.697Z
 ! Last modified: 2025-11-21T20:08:43.412Z
 ! Last modified: 2025-11-22T00:31:50.388Z
-! Last modified: 2025-11-22T01:35:47.639Z
-! Last modified: 2025-11-22T01:35:48.808Z
 ! Last modified: 2025-11-22T04:08:55.023Z
 ! Last modified: 2025-11-22T06:10:35.786Z
 ! Last modified: 2025-11-22T08:10:00.318Z
-! Last modified: 2025-11-22T12:09:31.187Z
-! Last modified: 2025-11-22T12:11:30.948Z
 ! Last modified: 2025-11-22T12:12:07.722Z
-! Last modified: 2025-11-22T12:21:38+0000
+! Last modified: 2025-11-22T13:11:36.872Z
+! Last modified: 2025-11-22T13:11:38.112Z
+! Last modified: 2025-11-22T16:24:37+0000
+! Last modified: 2025-11-22T18:08:15.362Z
+! Last modified: 2025-11-22T18:09:34.597Z
 ! Last modified: 21 Nov 2025 15:27 UTC+7
 ! Last modified: 21 Nov 2025 18:02 UTC
 ! Last modified: 22 Nov 2025 10:05 UTC
@@ -772,7 +772,7 @@
 ! Turkish
 ! UC Browser
 ! Ukranian
-! Updated: 2025-11-22 12:10 UTC
+! Updated: 2025-11-22 17:10 UTC
 ! Used with generichide
 ! Utiq :  utiq-aws.net disguised trackers
 ! Version: 1.0.14.90
@@ -782,13 +782,13 @@
 ! Version: 1.0.17.41
 ! Version: 1.0.18.99
 ! Version: 1.0.20.38
-! Version: 1.0.23.18
-! Version: 1.0.23.28
+! Version: 1.0.23.19
+! Version: 1.0.23.29
 ! Version: 1.0.32.18
-! Version: 1.0.46.12
+! Version: 1.0.46.15
 ! Version: 2025.1121.1802.41
 ! Version: 2025.1122.1005.44
-! Version: 202511221221
+! Version: 202511221624
 ! Version: 2511211527
 ! Vietnamese
 ! Visão, Exame, Exame Informática, Courrier Internacional, Jornal de Letras, Caras, Activa, TV Mais, Telenovelas, This is Portugal, A Nossa Prima
@@ -285722,7 +285722,6 @@ zzpwoning.com
 ||13vm73vbmp.com^
 ||13x4.com^
 ||13xp.com^
-||14-0-204-188.static.pccw-hkt.com^
 ||14-18enlorraine.com^
 ||14-pi.net^
 ||14-sticks.com^
@@ -287884,7 +287883,6 @@ zzpwoning.com
 ||195758.engine.mobileapptracking.com^
 ||19588.engine.mobileapptracking.com^
 ||195f-e8f9-e884-110a.reporo.net^
-||196-251-81-125.cprapid.com^
 ||196-251-84-167.cprapid.com^
 ||196-251-85-63.cprapid.com^
 ||196.196.153.151^
@@ -288325,7 +288323,6 @@ zzpwoning.com
 ||1d9f37e91c.com^
 ||1daf-f1f5-5181-4287.reporo.net^
 ||1dancefm.myradiotoolbar.com^
-||1dattw-faceb00k.duckdns.org^
 ||1day.gift^
 ||1dayacademy.com^
 ||1dayauction.com^
@@ -288492,7 +288489,6 @@ zzpwoning.com
 ||1gkjk1ms15.com^
 ||1gp3p6fkio.com^
 ||1greatrealestatesales.com^
-||1gsvg.lat^
 ||1gtp.icu^
 ||1guy1cock.com^
 ||1gvv7g.cfd^
@@ -288560,6 +288556,7 @@ zzpwoning.com
 ||1jd.bvuf2.ru^
 ||1je.gc0o9.ru^
 ||1jgsj1.blow.harrisretreat.com^
+||1jj2nj2.sbs^
 ||1jlp1qbgu.com^
 ||1jnbhj.sbs^
 ||1jo.cqcounter.com^
@@ -289149,6 +289146,7 @@ zzpwoning.com
 ||1ykbpp1jx.com^
 ||1yme78h.com^
 ||1yqbp.com^
+||1yqf.c1earwave.ru^
 ||1yx6u1.hbg.hebdenbridgedental.co.uk^
 ||1yyhe.voluumtrk.com^
 ||1z.5no-v.ru^
@@ -290208,6 +290206,7 @@ zzpwoning.com
 ||225103.measurementapi.com^
 ||225201762.keywordblocks.com^
 ||22537.hittail.com^
+||2253uu.top^
 ||2257.tm.zedo.com^
 ||2257032025.carettoni.it^
 ||225821.measurementapi.com^
@@ -291888,7 +291887,6 @@ zzpwoning.com
 ||2ndwindlive.com^
 ||2nell.com^
 ||2neon54.fr^
-||2njv3k.icu^
 ||2nmh93.gay.tathamservice.com^
 ||2nn7r6bh1.de^
 ||2no.co^
@@ -298132,7 +298130,6 @@ zzpwoning.com
 ||5cd9ca94fb.com^
 ||5cdf.spidermobi.com^
 ||5cfe7.s.fwmrm.net^
-||5cg77.miragepad.ru^
 ||5cgame.com^
 ||5cih9gxsul.data.adobedc.net^
 ||5clickcashsoftware.com^
@@ -299820,6 +299817,7 @@ zzpwoning.com
 ||6i6cwnoyc0msslk0vovhfnndofuk6bbr.shop2.de^
 ||6i7y3i.ru^
 ||6idzz.ouasflpydty21tf.bapb.gdn^
+||6ijuff.cfd^
 ||6im21hxi9gv6wvpenkp.rest^
 ||6imymbh25v1jy5wig.cfd^
 ||6iyn6bz9.myutilitydomain.com^
@@ -301285,7 +301283,6 @@ zzpwoning.com
 ||7me0ssd6.de^
 ||7metasearch.com^
 ||7metodik.ru^
-||7miaar.cfd^
 ||7minuteworkout.com^
 ||7mjnjh98kfc7ol.rest^
 ||7mk.fun^
@@ -302473,6 +302470,8 @@ zzpwoning.com
 ||8efed4a5ae0d.top^
 ||8eh18dhq9wd.click^
 ||8ehdc.voluumtrk.com^
+||8ejnbe.cfd^
+||8ejnber.cfd^
 ||8elopz4t8t.mentalist.kameleoon.com^
 ||8et.icu^
 ||8ey.jam-crest.ru^
@@ -312650,6 +312649,7 @@ zzpwoning.com
 ||abovechat.com^
 ||abovede6.com^
 ||abovenormtwist.com^
+||aboventhink.delightstech.com^
 ||aboveredirect.com^
 ||aboveredirect.top^
 ||abovetrack.com^
@@ -313470,6 +313470,7 @@ zzpwoning.com
 ||accidentdemocracy.com^
 ||accidlumin.pro^
 ||accidpatag.pro^
+||accidproji.digital^
 ||acciestata.pro^
 ||accindustry.com^
 ||accio.ai^
@@ -342495,6 +342496,7 @@ zzpwoning.com
 ||aeig1g029ksiy7.alysewright.com^
 ||aeinkailrupe.com^
 ||aeiou.pt/i/pub/casino_
+||aeiptbtyknklq.online^
 ||aeisqs.icu^
 ||aeiwzejwyzqjy.rocks^
 ||aeizbvtknp.com^
@@ -345228,6 +345230,7 @@ zzpwoning.com
 ||ahwzqqlumpyba.website^
 ||ahwzvnqc.com^
 ||ahxldgy.com^
+||ahxpudoydaraw.site^
 ||ahxqqfgmfumpo.website^
 ||ahyjsrlslitla.online^
 ||ahyuzjgukqyd.com^
@@ -345491,6 +345494,7 @@ zzpwoning.com
 ||aiebilet.pl-smart4833737.cfd^
 ||aiebilet.pl-smart5477980.cfd^
 ||aiebilet.pl-smart85478.cfd^
+||aiebilet.pl-smart8547812.cfd^
 ||aiebilet.plsd2bgflstdb212cgk.icu^
 ||aieic.com^
 ||aielsuffari.top^
@@ -346364,10 +346368,10 @@ zzpwoning.com
 ||ajaxbig.ru^
 ||ajaxcdn.org^
 ||ajbeqy.delfi.lt^
+||ajbkf.c1earwave.ru^
 ||ajc.us.intellitxt.com^
 ||ajcafpjuhur.xyz^
 ||ajcclassifieds.com^
-||ajchgxz.com^
 ||ajcode.co^
 ||ajcsjktzlqh.com^
 ||ajczgt.ignorelist.com^
@@ -347425,6 +347429,7 @@ zzpwoning.com
 ||alebilet.oferta.asia^
 ||alebilet.ofertx-2145236.shop^
 ||alebilet.offerx312421.shop^
+||alebilet.pl-33788538.icu^
 ||alebilet.pl-66155.cfd^
 ||alebilet.pl-92001628oferta.icu^
 ||alebilet.pl-oferta0304932342934.rest^
@@ -347438,6 +347443,7 @@ zzpwoning.com
 ||alebilet.pl-smart4124124.cfd^
 ||alebilet.pl-smart5477980.cfd^
 ||alebilet.pl-smart85478.cfd^
+||alebilet.pl-smart8547812.cfd^
 ||alebilet.pl-ver2196-id70456-cfi849u-cid71062.shop^
 ||alebilet.pl012234.cfd^
 ||alebilet.plsd2bgflstdb243cgk.icu^
@@ -348263,8 +348269,8 @@ zzpwoning.com
 ||allebilet.pl-ofertaid08426105382634.shop^
 ||allebilet.pl-smart275384.cfd^
 ||allebilet.pl-smart5477980.cfd^
-||allebilet.pl-smart742784.cfd^
 ||allebilet.pl-smart85478.cfd^
+||allebilet.pl-smart8547812.cfd^
 ||alleda.co^
 ||allegationbody.com^
 ||allegationobtain.com^
@@ -348290,6 +348296,8 @@ zzpwoning.com
 ||allegro.0-230-23.rest^
 ||allegro.01925128.cfd^
 ||allegro.03284903.shop^
+||allegro.1392132.cfd^
+||allegro.17361.click^
 ||allegro.285187251025-125-1250152-15182.cfd^
 ||allegro.289348237582352.sbs^
 ||allegro.372722-202-020291-2skas.sbs^
@@ -348301,7 +348309,10 @@ zzpwoning.com
 ||allegro.6754378.rest^
 ||allegro.74648.me^
 ||allegro.74682.me^
+||allegro.76848.me^
 ||allegro.784847.click^
+||allegro.78682.me^
+||allegro.78684.me^
 ||allegro.82673020.pl^
 ||allegro.890va91.shop^
 ||allegro.92922-2-0159251.cfd^
@@ -348363,9 +348374,7 @@ zzpwoning.com
 ||allegro.pl-kategorie71237825368429.shop^
 ||allegro.pl-kategorie759725827491858954.shop^
 ||allegro.pl-kategorie78123128673731233.shop^
-||allegro.pl-kategorie78127833718237.shop^
 ||allegro.pl-kategorie781278950912571.shop^
-||allegro.pl-kategorie810473728637914.shop^
 ||allegro.pl-kategorie812375126.com^
 ||allegro.pl-kategorie8125781256783623.shop^
 ||allegro.pl-kategorie81273625.com^
@@ -348386,6 +348395,7 @@ zzpwoning.com
 ||allegro.pl-oferta0234203.shop^
 ||allegro.pl-oferta0304932342934.rest^
 ||allegro.pl-oferta03203923.sbs^
+||allegro.pl-oferta1070008.cfd^
 ||allegro.pl-oferta1253362.shop^
 ||allegro.pl-oferta1583072647.shop^
 ||allegro.pl-oferta1918255.cfd^
@@ -348394,7 +348404,6 @@ zzpwoning.com
 ||allegro.pl-oferta2453224.sbs^
 ||allegro.pl-oferta2645325.icu^
 ||allegro.pl-oferta2705723.com^
-||allegro.pl-oferta2836184.shop^
 ||allegro.pl-oferta3132152.shop^
 ||allegro.pl-oferta3446564.shop^
 ||allegro.pl-oferta3460677.shop^
@@ -348402,6 +348411,7 @@ zzpwoning.com
 ||allegro.pl-oferta35912351.shop^
 ||allegro.pl-oferta3644137.icu^
 ||allegro.pl-oferta3949913.sbs^
+||allegro.pl-oferta4020398.cfd^
 ||allegro.pl-oferta4127951932515.sbs^
 ||allegro.pl-oferta4141263647.shop^
 ||allegro.pl-oferta4143026.icu^
@@ -348465,6 +348475,7 @@ zzpwoning.com
 ||allegro.pl-oferta8947648914.shop^
 ||allegro.pl-oferta918273644.shop^
 ||allegro.pl-oferta9219732.shop^
+||allegro.pl-oferta92405.sbs^
 ||allegro.pl-oferta9374628105.cfd^
 ||allegro.pl-oferta9489331.cfd^
 ||allegro.pl-oferta97546.rest^
@@ -348479,10 +348490,10 @@ zzpwoning.com
 ||allegro.pl-przedmiot5363846.icu^
 ||allegro.pl-smart275384.cfd^
 ||allegro.pl-smart4124124.cfd^
-||allegro.pl-smart4833737.cfd^
 ||allegro.pl-smart5477980.cfd^
 ||allegro.pl-smart742784.cfd^
 ||allegro.pl-smart85478.cfd^
+||allegro.pl-smart8547812.cfd^
 ||allegro.pl-smart9578912.cfd^
 ||allegro.pl-ver2196-id70456-cfi849u-cid71062.shop^
 ||allegro.pl-zamowienie8423858367535732372253376.sbs^
@@ -348506,7 +348517,7 @@ zzpwoning.com
 ||allegrolokainie.pl-smart5477980.cfd^
 ||allegrolokainie.pl-smart742784.cfd^
 ||allegrolokainie.pl-smart85478.cfd^
-||allegrolokainie.pl-smart9578912.cfd^
+||allegrolokainie.pl-smart8547812.cfd^
 ||allegrolokainie.plsd2bgflstdb243cgk.icu^
 ||allegrolokainie.plsd2bgflstdb290cgk.icu^
 ||allegrolokalne.oferta.asia^
@@ -348519,44 +348530,57 @@ zzpwoning.com
 ||allegrolokalne.pl-smart4124124.cfd^
 ||allegrolokalne.pl-smart4833737.cfd^
 ||allegrolokalne.pl-smart85478.cfd^
-||allegrolokalne.pl-smart958589.cfd^
+||allegrolokalne.pl-smart8547812.cfd^
 ||allegrolokalne.plsd2bgflstdb243cgk.icu^
 ||allegrolokalnie.*.shop^
 ||allegrolokalnie.0-230-23.rest^
+||allegrolokalnie.00002555-coi2.cfd^
 ||allegrolokalnie.012369.shop^
 ||allegrolokalnie.012512.shop^
 ||allegrolokalnie.022402.shop^
 ||allegrolokalnie.0274985.sbs^
+||allegrolokalnie.029281251-53293828.cfd^
 ||allegrolokalnie.0912-123952-1523-786214.shop^
 ||allegrolokalnie.0c8bv-763178.shop^
 ||allegrolokalnie.0x-v0a-1-9a0.shop^
+||allegrolokalnie.17361.click^
 ||allegrolokalnie.189723520-vsa87a-1398124.shop^
 ||allegrolokalnie.19261.cfd^
 ||allegrolokalnie.220525.shop^
 ||allegrolokalnie.285187251025-125-1250152-15182.cfd^
 ||allegrolokalnie.2867c-2834b.rest^
+||allegrolokalnie.289348237582352.sbs^
 ||allegrolokalnie.2d-23de-a.sbs^
 ||allegrolokalnie.300552.shop^
 ||allegrolokalnie.302323.sbs^
+||allegrolokalnie.352710472.pl^
+||allegrolokalnie.38ehefgefasgdha.cyou^
 ||allegrolokalnie.392-003-603-3936832.cyou^
 ||allegrolokalnie.3932c-x90x73126.rest^
 ||allegrolokalnie.3973798b-2838c.rest^
 ||allegrolokalnie.508554.shop^
+||allegrolokalnie.51285178sjasj.cyou^
 ||allegrolokalnie.5277654.rest^
 ||allegrolokalnie.53657.me^
 ||allegrolokalnie.536721.shop^
+||allegrolokalnie.5431654.rest^
 ||allegrolokalnie.5483o23-3828n12.rest^
+||allegrolokalnie.583-prywatnie5951-125125192.cfd^
 ||allegrolokalnie.63749.me^
 ||allegrolokalnie.63771574.pl^
+||allegrolokalnie.6754378.rest^
 ||allegrolokalnie.6828284.shop^
 ||allegrolokalnie.684353.shop^
 ||allegrolokalnie.729601.me^
 ||allegrolokalnie.76324.top^
 ||allegrolokalnie.76406.me^
 ||allegrolokalnie.76842.top^
+||allegrolokalnie.76848.me^
 ||allegrolokalnie.7814.live^
 ||allegrolokalnie.783245.rest^
 ||allegrolokalnie.78614.top^
+||allegrolokalnie.78682.me^
+||allegrolokalnie.78684.me^
 ||allegrolokalnie.789324.pro^
 ||allegrolokalnie.803698.shop^
 ||allegrolokalnie.807202.shop^
@@ -348625,15 +348649,12 @@ zzpwoning.com
 ||allegrolokalnie.n5012912.icu^
 ||allegrolokalnie.nowa-oferta.cfd^
 ||allegrolokalnie.ods-c948y7576.rest^
-||allegrolokalnie.oferta-1637510.shop^
 ||allegrolokalnie.oferta-22762654.cfd^
 ||allegrolokalnie.oferta-2342553.icu^
-||allegrolokalnie.oferta-274913.shop^
 ||allegrolokalnie.oferta-44652712.click^
 ||allegrolokalnie.oferta-4613313.shop^
 ||allegrolokalnie.oferta-5039938-2iwj.sbs^
 ||allegrolokalnie.oferta-58010866.click^
-||allegrolokalnie.oferta-6708953.shop^
 ||allegrolokalnie.oferta-71065846.click^
 ||allegrolokalnie.oferta-728194.shop^
 ||allegrolokalnie.oferta-739125.shop^
@@ -348650,18 +348671,17 @@ zzpwoning.com
 ||allegrolokalnie.oferta.asia^
 ||allegrolokalnie.oferta02912834.sbs^
 ||allegrolokalnie.oferta2133863.sbs^
-||allegrolokalnie.oferta2138041.sbs^
 ||allegrolokalnie.oferta42539009.shop^
 ||allegrolokalnie.oferta477353529.shop^
 ||allegrolokalnie.oferta735482532.shop^
 ||allegrolokalnie.oferta842845293.shop^
 ||allegrolokalnie.oferta85292473848.shop^
 ||allegrolokalnie.oferta863925393.shop^
-||allegrolokalnie.oferta91341.shop^
 ||allegrolokalnie.oferta9513207.shop^
 ||allegrolokalnie.oferty-0694831.shop^
 ||allegrolokalnie.oferty-kategoria-proponowane-dla-ciebie-rozne-21.sbs^
 ||allegrolokalnie.oferty-kategoria-proponowane-dla-ciebie-wszystko-18.icu^
+||allegrolokalnie.oferty04-1591804ga.cyou^
 ||allegrolokalnie.ogloszenie-1454988.shop^
 ||allegrolokalnie.ogloszenie-385202.shop^
 ||allegrolokalnie.ogloszenie-6336183.shop^
@@ -348689,11 +348709,9 @@ zzpwoning.com
 ||allegrolokalnie.pi-58217582.click^
 ||allegrolokalnie.pi-5827157.click^
 ||allegrolokalnie.pi-836454210.rest^
-||allegrolokalnie.pi-9201029351030192736.rest^
 ||allegrolokalnie.pi-993120462528302.rest^
 ||allegrolokalnie.pi-id678192739.rest^
 ||allegrolokalnie.pi-katlegoria-narzedziove-29c8x23.rest^
-||allegrolokalnie.pi-katlegoria-ogrodove-320cx73.rest^
 ||allegrolokalnie.pi-katlegoria-ogrodove-x89c6.rest^
 ||allegrolokalnie.pi-katlegoria-resztva-9032c8.rest^
 ||allegrolokalnie.pi-oferta-3001375827.rest^
@@ -348730,14 +348748,11 @@ zzpwoning.com
 ||allegrolokalnie.pl-49991412.icu^
 ||allegrolokalnie.pl-5288491.icu^
 ||allegrolokalnie.pl-53192256-personal.shop^
-||allegrolokalnie.pl-539574532.shop^
 ||allegrolokalnie.pl-564534.shop^
-||allegrolokalnie.pl-56978f3748.shop^
 ||allegrolokalnie.pl-632981.icu^
 ||allegrolokalnie.pl-64111234211343395122749922233f45.cfd^
 ||allegrolokalnie.pl-6435523432.shop^
 ||allegrolokalnie.pl-66167.cfd^
-||allegrolokalnie.pl-66769.cfd^
 ||allegrolokalnie.pl-712467.cfd^
 ||allegrolokalnie.pl-7259138.cfd^
 ||allegrolokalnie.pl-7318148.cfd^
@@ -348794,7 +348809,6 @@ zzpwoning.com
 ||allegrolokalnie.pl-kategorie1782512456871425132.shop^
 ||allegrolokalnie.pl-kategorie1784205712634763.shop^
 ||allegrolokalnie.pl-kategorie1785287142528.shop^
-||allegrolokalnie.pl-kategorie1982641267469832.shop^
 ||allegrolokalnie.pl-kategorie279213815924046.shop^
 ||allegrolokalnie.pl-kategorie395601327894.shop^
 ||allegrolokalnie.pl-kategorie540726707465912.shop^
@@ -348825,6 +348839,7 @@ zzpwoning.com
 ||allegrolokalnie.pl-oferta-7559651551-monitor-asus-rog-ps4.shop^
 ||allegrolokalnie.pl-oferta-864366.rest^
 ||allegrolokalnie.pl-oferta-891204-gamingowy-pc-rtx.cfd^
+||allegrolokalnie.pl-oferta-891904-gamingowy-pc-rtx.cfd^
 ||allegrolokalnie.pl-oferta-9083231.icu^
 ||allegrolokalnie.pl-oferta-elektronika-fkdjou384h9tfs.icu^
 ||allegrolokalnie.pl-oferta-elektronika-hku4568dhsguwahy.icu^
@@ -348833,7 +348848,6 @@ zzpwoning.com
 ||allegrolokalnie.pl-oferta-kategorie-polecane302994940.sbs^
 ||allegrolokalnie.pl-oferta-kategorie-polecane348732430870.cfd^
 ||allegrolokalnie.pl-oferta-kategorie-polecane3487324344457.sbs^
-||allegrolokalnie.pl-oferta-kategorie-polecane39932003.icu^
 ||allegrolokalnie.pl-oferta-kategorie-polecane39932230008.cfd^
 ||allegrolokalnie.pl-oferta-kategorie-polecane39932234321.cfd^
 ||allegrolokalnie.pl-oferta-kategorie023403039.sbs^
@@ -348842,6 +348856,8 @@ zzpwoning.com
 ||allegrolokalnie.pl-oferta-promowane-kategorie2938293283.cfd^
 ||allegrolokalnie.pl-oferta0277392.icu^
 ||allegrolokalnie.pl-oferta0304932342934.rest^
+||allegrolokalnie.pl-oferta1070008.cfd^
+||allegrolokalnie.pl-oferta12888-macbook-air-m1.sbs^
 ||allegrolokalnie.pl-oferta135972-samsung-odyssey-g9.sbs^
 ||allegrolokalnie.pl-oferta187920.icu^
 ||allegrolokalnie.pl-oferta1918255.cfd^
@@ -348869,6 +348885,7 @@ zzpwoning.com
 ||allegrolokalnie.pl-oferta3946163.shop^
 ||allegrolokalnie.pl-oferta3949913.sbs^
 ||allegrolokalnie.pl-oferta4017810.eu^
+||allegrolokalnie.pl-oferta4020398.cfd^
 ||allegrolokalnie.pl-oferta43916817681256-msi-vector-16.shop^
 ||allegrolokalnie.pl-oferta476482.cfd^
 ||allegrolokalnie.pl-oferta482023.cfd^
@@ -348887,17 +348904,15 @@ zzpwoning.com
 ||allegrolokalnie.pl-oferta638256.cfd^
 ||allegrolokalnie.pl-oferta65285393672.shop^
 ||allegrolokalnie.pl-oferta671812.cfd^
-||allegrolokalnie.pl-oferta671911.cfd^
 ||allegrolokalnie.pl-oferta698526.icu^
 ||allegrolokalnie.pl-oferta702884.cfd^
 ||allegrolokalnie.pl-oferta7092610.icu^
 ||allegrolokalnie.pl-oferta7151922.com^
 ||allegrolokalnie.pl-oferta7225378.cc^
+||allegrolokalnie.pl-oferta7342352.icu^
 ||allegrolokalnie.pl-oferta73901248.cfd^
 ||allegrolokalnie.pl-oferta73901825.cfd^
 ||allegrolokalnie.pl-oferta74237.rest^
-||allegrolokalnie.pl-oferta7483275.icu^
-||allegrolokalnie.pl-oferta75962103.cfd^
 ||allegrolokalnie.pl-oferta7690795.shop^
 ||allegrolokalnie.pl-oferta7707177.icu^
 ||allegrolokalnie.pl-oferta7955561.com^
@@ -348917,7 +348932,6 @@ zzpwoning.com
 ||allegrolokalnie.pl-oferta8372130.shop^
 ||allegrolokalnie.pl-oferta83923014.shop^
 ||allegrolokalnie.pl-oferta84325.cfd^
-||allegrolokalnie.pl-oferta8460473.shop^
 ||allegrolokalnie.pl-oferta8462735824.shop^
 ||allegrolokalnie.pl-oferta8462963529.shop^
 ||allegrolokalnie.pl-oferta8463294835.shop^
@@ -348941,6 +348955,7 @@ zzpwoning.com
 ||allegrolokalnie.pl-oferta8737291.com^
 ||allegrolokalnie.pl-oferta883320.com^
 ||allegrolokalnie.pl-oferta888773.com^
+||allegrolokalnie.pl-oferta89329.icu^
 ||allegrolokalnie.pl-oferta893819.cfd^
 ||allegrolokalnie.pl-oferta8947648914.shop^
 ||allegrolokalnie.pl-oferta89756.com^
@@ -348948,6 +348963,7 @@ zzpwoning.com
 ||allegrolokalnie.pl-oferta912985.icu^
 ||allegrolokalnie.pl-oferta918770.icu^
 ||allegrolokalnie.pl-oferta9219732.shop^
+||allegrolokalnie.pl-oferta92405.sbs^
 ||allegrolokalnie.pl-oferta92848.top^
 ||allegrolokalnie.pl-oferta932417.com^
 ||allegrolokalnie.pl-oferta9355755.sbs^
@@ -348971,7 +348987,6 @@ zzpwoning.com
 ||allegrolokalnie.pl-ogloszenie-2045264.rest^
 ||allegrolokalnie.pl-ogloszenie-3069036.cfd^
 ||allegrolokalnie.pl-ogloszenie-47124.rest^
-||allegrolokalnie.pl-ogloszenie-59332.rest^
 ||allegrolokalnie.pl-ogloszenie-firmowe-8576.shop^
 ||allegrolokalnie.pl-ogloszenie-firmowe-88839993.shop^
 ||allegrolokalnie.pl-prywatne-2851.sbs^
@@ -348981,19 +348996,18 @@ zzpwoning.com
 ||allegrolokalnie.pl-smart5477980.cfd^
 ||allegrolokalnie.pl-smart742784.cfd^
 ||allegrolokalnie.pl-smart85478.cfd^
+||allegrolokalnie.pl-smart8547812.cfd^
 ||allegrolokalnie.pl-smart857812.cfd^
 ||allegrolokalnie.pl-smart85789124.cfd^
 ||allegrolokalnie.pl-smart9578712.cfd^
 ||allegrolokalnie.pl-smart9578912.cfd^
 ||allegrolokalnie.pl-smartzakupy5372.shop^
-||allegrolokalnie.pl-ticketmaster.shop^
 ||allegrolokalnie.pl-uzywana-oferta93204.cfd^
 ||allegrolokalnie.pl-ver2196-id70456-cfi849u-cid71062.shop^
 ||allegrolokalnie.pl-zakupy432831.shop^
 ||allegrolokalnie.pl-zamowienie8423858367535732372253376.sbs^
 ||allegrolokalnie.pl-zamowienie8423858367535732372253377210.cfd^
 ||allegrolokalnie.pl-zamowienie84238583675357323722533772263.cfd^
-||allegrolokalnie.pl-zamowienie84238583675357323722533772567.cfd^
 ||allegrolokalnie.pl-zamowienie842385836753573237225337743.sbs^
 ||allegrolokalnie.pl1036.cfd^
 ||allegrolokalnie.pl3485.cfd^
@@ -349017,9 +349031,13 @@ zzpwoning.com
 ||allegrolokalnie.r080tpedal.sbs^
 ||allegrolokalnie.r92.rest^
 ||allegrolokalnie.rezerwacja3613961.click^
+||allegrolokalnie.rozne-128485756.rest^
+||allegrolokalnie.rozne-19438485.rest^
 ||allegrolokalnie.rozne-32948548.rest^
 ||allegrolokalnie.smart-zakupy81732.shop^
 ||allegrolokalnie.strona-14-kategorie-polecane.shop^
+||allegrolokalnie.transfer7809586.xyz^
+||allegrolokalnie.urowegi.top^
 ||allegrolokalnie.ver194-id77102-cfi119u-cid892.shop^
 ||allegrolokalnie.wyprzedaze-majowe.click^
 ||allegrolokalnie.x7rq.pl^
@@ -350491,6 +350509,7 @@ zzpwoning.com
 ||amaqvmfd.com^
 ||amar.minimartbd.store^
 ||amara99.net^
+||amaranth-nedi-9.tiiny.site^
 ||amarantinefarms.com^
 ||amarceusan.com^
 ||amare.softwaregarden.com^
@@ -350583,7 +350602,6 @@ zzpwoning.com
 ||amazementslick.com^
 ||amazemobilemedia.com^
 ||amazeprotectiveabonnement.com^
-||amazeriencequant.net^
 ||amazing-bargains.com^
 ||amazing-dates.com^
 ||amazing-dates.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -351300,6 +351318,7 @@ zzpwoning.com
 ||ammaeriver.pro^
 ||ammagpocol.pro^
 ||ammagsenza.pro^
+||ammalestra.digital^
 ||ammalhypat.com^
 ||ammanabbat.pro^
 ||ammanjelut.pro^
@@ -356392,6 +356411,7 @@ zzpwoning.com
 ||anaplan.tt.omtrdc.net^
 ||anaplanglobal.112.2o7.net^
 ||anaplunsat.pro^
+||anapromotion.xzsos.cn^
 ||anaqrr.meetinonline.com^
 ||anaqua.cn^
 ||anaqvr.inventivedates.net^
@@ -358677,6 +358697,7 @@ zzpwoning.com
 ||apero-bigdata.com^
 ||apertantic.pro^
 ||aperto01.webtrekk.net^
+||apertsorrowy.help^
 ||aperture.displaymarketplace.com^
 ||apes-offers.com^
 ||apesarcellad.firebaseapp.com^
@@ -364134,6 +364155,7 @@ zzpwoning.com
 ||aqodwthjaq.com^
 ||aqornnfwxmua.com^
 ||aqotbmnzra.com^
+||aqouasqwrzz.space^
 ||aqouep.aquaphor.ru^
 ||aqphfgh.cc^
 ||aqpmljbvacbpi.space^
@@ -364656,6 +364678,7 @@ zzpwoning.com
 ||archives-prime.fr^
 ||archives.adlegend.com^
 ||archives.kathmandutribune.com^
+||archivesautomacion.ddns.net^
 ||archivesbackpack.com^
 ||archivescane.com^
 ||archivesdepartementales.fr^
@@ -364736,6 +364759,7 @@ zzpwoning.com
 ||ardassnitrids.world^
 ||arddigital.com^
 ||ardeleted.com^
+||ardeliaarvos.cfd^
 ||ardenneweb.com^
 ||ardenodemedia.com^
 ||ardent-ledger.com^
@@ -366852,6 +366876,7 @@ zzpwoning.com
 ||aspropex.cc^
 ||aspropex.com^
 ||aspservice.jp^
+||aspsloped.com^
 ||aspspider.info^
 ||aspublicidad.do^
 ||aspwg.cn^
@@ -366897,6 +366922,7 @@ zzpwoning.com
 ||assailempower.com^
 ||assailflatten.com^
 ||assailspedicab.rest^
+||assalcaste.digital^
 ||assalfalce.pro^
 ||assaloopool.com^
 ||assaltobrython.top^
@@ -367316,6 +367342,7 @@ zzpwoning.com
 ||associmage.match.com^
 ||associmg.com^
 ||assoctrac.com^
+||assocwasher.sbs^
 ||assoilziedpsm.info^
 ||assoldisar.com^
 ||assolletam.pro^
@@ -370918,7 +370945,6 @@ zzpwoning.com
 ||avf-tm.everesttech.net^
 ||avf.tubemogul.com^
 ||avfay.com^
-||avflofvv.ravainos.cfd^
 ||avforce.com^
 ||avfymwmwpky.com^
 ||avg.cm^
@@ -372093,6 +372119,7 @@ zzpwoning.com
 ||ay.comalpanzer.top^
 ||ay.delivery^
 ||ay.eastmoney.com^
+||ay.gr0ssgar.top^
 ||ay.idlefulrecoded.com^
 ||ay.kocq.ru^
 ||ay.ranglenefas.com^
@@ -372407,6 +372434,7 @@ zzpwoning.com
 ||azj57rjy.com^
 ||azjmp.com^
 ||azjpixel.adsafeprotected.com^
+||azjzlvgaifdzc.site^
 ||azkqupmhyha.com^
 ||azkvcgzjsrmk.com^
 ||azkwwrejomwjb.top^
@@ -375588,7 +375616,6 @@ zzpwoning.com
 ||bambergerkennanchitinous.com^
 ||bambexylid.com^
 ||bambinibelli.de^
-||bambisko.com^
 ||bamboo.districtm.net^
 ||bamboo.hicp.net^
 ||bamboo.revcontent.com^
@@ -376583,7 +376610,6 @@ zzpwoning.com
 ||bannerblasters.com^
 ||bannerboo.com^
 ||bannerbook.ru^
-||bannerbooster.com^
 ||bannerboxes.com^
 ||bannerbridge.net^
 ||bannerbro.ru^
@@ -380542,6 +380568,7 @@ zzpwoning.com
 ||below-artificial.gl.at.ply.gg^
 ||below0group.com^
 ||belowcomp.skrrrk.com^
+||belowhide.jamoutside.com^
 ||belowvoy.qalasigorta.com^
 ||belqorix-app.com^
 ||belqorix-app.net^
@@ -381280,8 +381307,6 @@ zzpwoning.com
 ||bestcentralesupelec.fr^
 ||bestchainconnection.com^
 ||bestchainconnection.com^$dnsrewrite=ad-block.dns.adguard.com
-||bestchange.icu^
-||bestchangeru.com^
 ||bestchat-chat.com^
 ||bestchoiceholiday.com^
 ||bestcitylife.com^
@@ -384245,6 +384270,7 @@ zzpwoning.com
 ||birbmcmp.icu^
 ||bircgizd.com^
 ||birch.aurorafels.ru^
+||birch.awreti-3-uette.ru^
 ||birch.br1ght5tar.ru^
 ||birch.cobaltmeadow.ru^
 ||birch.cobaltspore.ru^
@@ -386165,6 +386191,7 @@ zzpwoning.com
 ||bjmcmj.cn^
 ||bjmitt.com^
 ||bjmrnfwcoqp.bid^
+||bjndphnxlhpueiomxm.store^
 ||bjnjh.paintplot.com.au^
 ||bjnuxp.icu^
 ||bjnxegsgre.com^
@@ -387674,7 +387701,6 @@ zzpwoning.com
 ||bluemountaindharma.org^
 ||bluemtnscollective.com^
 ||bluenery.com^
-||blueoceanvatiocn.net^
 ||blueold.com^
 ||blueorbit.life^
 ||blueoyster.click^
@@ -389019,7 +389045,6 @@ zzpwoning.com
 ||bonappetit.com.112.2o7.net^
 ||bonbomorpion.qpon^
 ||bonch1.adriver.ru^
-||boncoin-paiement.fr^
 ||boncoinoffre-annonces-748483939273738.fr^
 ||bond.iad-03.braze.com^
 ||bond007.xyz^
@@ -392190,6 +392215,7 @@ zzpwoning.com
 ||bronxa.com^
 ||bronxgardenofedenhotsauce.godaddysites.com^
 ||bronze-leather.com^
+||bronze-sacha-19.tiiny.site^
 ||bronze-sudsy-parrot.glitch.me^
 ||bronzeandblack.com^
 ||bronzebull.pro^
@@ -395982,7 +396008,6 @@ zzpwoning.com
 ||businessnicker.com^
 ||businessottawoldfr.firebaseapp.com^
 ||businesspages-centerpolicy.pages.dev^
-||businesspdf.net^
 ||businessplanwriteruk.com^
 ||businesspowerapps360.com^
 ||businesspress24.de.intellitxt.com^
@@ -398333,7 +398358,6 @@ zzpwoning.com
 ||c4tz.0-9pr.ru^
 ||c4u.bo8y.ru^
 ||c4uy.icu^
-||c4v9.emberharbor.ru^
 ||c4w.9i3mpa6.ru^
 ||c4w.k8cr-9b.ru^
 ||c4x3m.wi7o.online^
@@ -403601,7 +403625,6 @@ zzpwoning.com
 ||cdalo.gardentowerproject.com^
 ||cdaonline.com.ar^
 ||cdas-01.trafficfabrik.com^
-||cdasynergy.net^
 ||cdata-driver-telemetry.azurewebsites.net^
 ||cdata.carambo.la^
 ||cdate.122.2o7.net^
@@ -406304,7 +406327,6 @@ zzpwoning.com
 ||cenedirgie.rest^
 ||ceneo-pl.shop^
 ||ceneo.rohlikk-cz.info^
-||ceneo.tetadrogerie.sbs^
 ||ceneoonline-pl.sbs^
 ||ceneoshoe.shop^
 ||cenerncyjl.com^
@@ -407186,7 +407208,6 @@ zzpwoning.com
 ||cg.calesatongued.shop^
 ||cg.hotwp.net^
 ||cg.idbt12269.icu^
-||cg.plum-wav-ru.ru^
 ||cg.pounamudrossel.com^
 ||cg.syssitadiswont.com^
 ||cg.tudorcluing.top^
@@ -408098,7 +408119,6 @@ zzpwoning.com
 ||chat.grup.whatsappp.workzs.com^
 ||chat.ichatlink.net^
 ||chat.inq.com^
-||chat.kongfupro.shop^
 ||chat.koq0.ru^
 ||chat.pgcountyliving.com^
 ||chat.qualtrics.com^
@@ -408683,6 +408703,7 @@ zzpwoning.com
 ||chelseafc.demdex.net^
 ||chelseafcuk.widget.criteo.com^
 ||chelseaimprovement.com^
+||chelsewoamsain.net^
 ||chemarium.biz^
 ||chemato.com^
 ||chemcorexpertzone.com^
@@ -409687,6 +409708,7 @@ zzpwoning.com
 ||chrome.browsers.it.com^
 ||chrome.servehttp.com^
 ||chrome.webredirect.org^
+||chrome1.my.id^
 ||chrome1update.shop^
 ||chromeacti.firebaseapp.com^
 ||chromeacti.web.app^
@@ -411538,7 +411560,6 @@ zzpwoning.com
 ||clartebitrosa.ru^
 ||clartelleinvexor.com^
 ||clartenexive-solution.com^
-||clartenexive.net^
 ||clartenexiveapp.com^
 ||clartevaultrex-software.com^
 ||clartevaultrex.net^
@@ -415275,7 +415296,6 @@ zzpwoning.com
 ||cncdn.9966.org^
 ||cnckdochd.com^
 ||cnckitmill.com^
-||cncl-linebhdso0l.weebly.com^
 ||cncllcus4sv.odoo.com^
 ||cncmachinistrecruiter.com^
 ||cncnails.net^
@@ -416781,6 +416801,7 @@ zzpwoning.com
 ||cokeymythos.com^
 ||cokfwpfycgzjvn.bid^
 ||cokhach.com^
+||cokhjnhxgsfaj.store^
 ||cokieshins.com^
 ||coklucekici.net^
 ||cokrrmzagaxn.com^
@@ -418753,7 +418774,6 @@ zzpwoning.com
 ||comfyliona.vercel.app^
 ||comfysoccermerchandise.com^
 ||comfz.com^
-||comgalls.com^
 ||comgnnyx.com^
 ||comgos.com^
 ||comgrkbqd.emotiondale.com^
@@ -419103,6 +419123,7 @@ zzpwoning.com
 ||communitypulse.io^
 ||communityshelf.com^
 ||communitysinsights.com^
+||communitysupport-wbif.vercel.app^
 ||communityworkdayprodd8.112.2o7.net^
 ||communlcationupdates.weebly.com^
 ||commusmear.pro^
@@ -419738,6 +419759,7 @@ zzpwoning.com
 ||condimentdisillusionnosebleed.com^
 ||condimozze.pro^
 ||condisconf.pro^
+||condisever.digital^
 ||condispelfear.com^
 ||condition-furniture.gl.at.ply.gg^
 ||condition.applause.com^
@@ -419747,7 +419769,6 @@ zzpwoning.com
 ||conditionerexploresmooth.com^
 ||conditionerpunhauled.com^
 ||conditioninfo.fr^
-||conditioning-humanity-woman-crop.trycloudflare.com^
 ||conditioniq.com^
 ||conditions-lake.gl.at.ply.gg^
 ||conditions-ripe.gl.at.ply.gg^
@@ -420396,7 +420417,6 @@ zzpwoning.com
 ||connectbtc.com^
 ||connectchase23.firebaseapp.com^
 ||connectchase23.web.app^
-||connectdownldcup.net^
 ||connected-by.connectad.io^
 ||connected-crop.vercel.app^
 ||connected-home.de.intellitxt.com^
@@ -420856,6 +420876,7 @@ zzpwoning.com
 ||constantlyskilfuldivinity.com^
 ||constantsubscript.fr^
 ||constchen.pro^
+||constdiriz.digital^
 ||constellation.evergage.com^
 ||constellation3x.fun^
 ||constellationbedriddenexams.com^
@@ -422627,6 +422648,7 @@ zzpwoning.com
 ||coraancyl.pro^
 ||coraberid.cc^
 ||coracenta.kissr.com^
+||coral-chloette-23.tiiny.site^
 ||coral-media-dsp1.rtb.adx1.com^
 ||coral-task.uc.cn^
 ||coral.bladestudy.net^
@@ -422797,7 +422819,6 @@ zzpwoning.com
 ||coremotives.com^
 ||coreproject.cz^
 ||coreproof.shop^
-||corepulsesync.ydns.eu^
 ||coreqbit.net^
 ||corer.ru^
 ||coreremembrance.com^
@@ -427758,6 +427779,7 @@ zzpwoning.com
 ||crucialostensiblestops.com^
 ||crucialstrategic.com^
 ||cruciricom.pro^
+||crucvybwc.com^
 ||crudeappend.com^
 ||crudedoormantherapy.com^
 ||crudeinextricable.com^
@@ -427861,6 +427883,7 @@ zzpwoning.com
 ||crvtpvsqvmypc.site^
 ||crvtrk.com^
 ||crvvrxfgsvohiy.com^
+||crvxrjwede.net^
 ||crwan.applinzi.com^
 ||crwdcntrl.net^
 ||crwdgrough.shop^
@@ -428578,6 +428601,7 @@ zzpwoning.com
 ||csbim-connect.firebaseapp.com^
 ||csbim-connect.web.app^
 ||csboab.fiufiu.co^
+||csbryaxjddnesr.space^
 ||csbsutah.co1.qualtrics.com^
 ||csbsvfmwevfkv.xyz^
 ||csbsyukodmga.com^
@@ -430063,6 +430087,7 @@ zzpwoning.com
 ||cutsig.shop^
 ||cutsol.com^
 ||cutstudiospr.online^
+||cutsupp.bigboybattlebattalion.com^
 ||cutter-made.firebaseapp.com^
 ||cutter-made.web.app^
 ||cutterbuck.com^
@@ -430478,7 +430503,6 @@ zzpwoning.com
 ||cx.v5cam.com^
 ||cx0001.cn^
 ||cx3fbungd.localto.net^
-||cx3v3ux.top^
 ||cx5-forum.de.intellitxt.com^
 ||cx6.lastxxxmovies.com^
 ||cx61897.tw1.ru^
@@ -430820,6 +430844,7 @@ zzpwoning.com
 ||cyfronet-yswpc-sign-on-v087jvloge-mgrkpi6fvk.intaxconsulting.com.au^
 ||cyfrowypolsat.pushwoosh.com^
 ||cyft-live.com^
+||cyfvzihtlszmdtgrbl.store^
 ||cyfzthaduxhb.com^
 ||cyg-byzlgtns.world^
 ||cygngisr.com^
@@ -430880,6 +430905,7 @@ zzpwoning.com
 ||cynzybmckvjxg.store^
 ||cyohmj.catawiki.com^
 ||cyonix.to^
+||cyosekggqbrqw.space^
 ||cyousoft.com^
 ||cypcb.net^
 ||cypcxeqocolluvies.review^
@@ -430902,6 +430928,7 @@ zzpwoning.com
 ||cyppolice.com^
 ||cypr.com^
 ||cypralove.com^
+||cypreaurums.click^
 ||cypressbygone.com^
 ||cypressresearch.co1.qualtrics.com^
 ||cypresssolutionsgroup.com^
@@ -439595,7 +439622,6 @@ zzpwoning.com
 ||davesmodelshop.com^
 ||davetiyeci.com.tr^
 ||davewilsonharness.com^
-||davewoks.duckdns.org^
 ||davichem.co.zw^
 ||david-rees.com^
 ||david925.shop^
@@ -439934,6 +439960,7 @@ zzpwoning.com
 ||dbfzdn.cn^
 ||dbg52463.moatads.com^
 ||dbggepx.com^
+||dbgjsblkeulmq.online^
 ||dbh.7eer.net^
 ||dbh3.milb.com^
 ||dbh4.milb.com^
@@ -440570,6 +440597,7 @@ zzpwoning.com
 ||ddgmb.voluumtrk.com^
 ||ddgxxq.date4connect.com^
 ||ddgxxq.romanti4moments.net^
+||ddgzfxrzeovdepup.store^
 ||ddhhbh.alfaromeo.fr^
 ||ddhhg.space^
 ||ddhjabqe.icu^
@@ -443118,6 +443146,7 @@ zzpwoning.com
 ||deoci.biz^
 ||deodocompu.pro^
 ||deodogeost.pro^
+||deofahxhsbnz.space^
 ||deokgi0q.com^
 ||deoksanapp.com^
 ||deokxdgzwdyzm.website^
@@ -443864,7 +443893,6 @@ zzpwoning.com
 ||detailverified.com^
 ||detaintrapesintentionally.com^
 ||detaires.com^
-||detalles12.duckdns.org^
 ||detan2go.firebaseapp.com^
 ||detan2go.web.app^
 ||detarbureaux.qpon^
@@ -444434,7 +444462,6 @@ zzpwoning.com
 ||dewaltfrance.fr^
 ||dewaltrisa.info^
 ||dewamenarik.com^
-||dewanahbos.com^
 ||dewanbirchen.qpon^
 ||dewanni.page.link^
 ||dewannydeleter.website^
@@ -447868,6 +447895,7 @@ zzpwoning.com
 ||discoveryplus.popin.cc^
 ||discprd.com^
 ||discqrde.com^
+||discrbeefe.digital^
 ||discrcrepa.pro^
 ||discrd.co^
 ||discrd.com^
@@ -448099,7 +448127,6 @@ zzpwoning.com
 ||dismaskcabuya.help^
 ||dismay-sacred.com^
 ||dismaybrave.com^
-||dismecosto.pro^
 ||dismembernnew.com^
 ||dismestell.pro^
 ||dismisscandourredden.com^
@@ -448570,6 +448597,7 @@ zzpwoning.com
 ||divapton.biz^
 ||divaresnapshareagido.com^
 ||divaresnapshareagido.com^$dnsrewrite=ad-block.dns.adguard.com
+||divasbitta.digital^
 ||divascam.com^
 ||divaspacambodia.com^
 ||divaspin-casino.fr^
@@ -448968,6 +448996,7 @@ zzpwoning.com
 ||dk.gnaqpg6.sa.com^
 ||dk.info.lgsmartad.com^
 ||dk.meminnaposes.rest^
+||dk.mintspr1ng.ru^
 ||dk.panel.gemius.dk^
 ||dk.talent.com^
 ||dk.wanionsoblongs.com^
@@ -449093,7 +449122,6 @@ zzpwoning.com
 ||dktclumdglhds.site^
 ||dktr03lf4tq7h.cloudfront.net^
 ||dktyjwldv.com^
-||dkuaf.874b.cn^
 ||dkufc.voluumtrk.com^
 ||dkupaw9ae63a8.cloudfront.net^
 ||dkus30wj6f84p.cloudfront.net^
@@ -450416,7 +450444,6 @@ zzpwoning.com
 ||documentolaboratorion.com.de^
 ||documentopa.weebly.com^
 ||documentoportal.weebly.com^
-||documentosyarchivos.online^
 ||documentpenitentmoreover.com^
 ||documentpro.org^
 ||documentreview-file16022023.myportfolio.com^
@@ -450553,6 +450580,7 @@ zzpwoning.com
 ||doggodao.web.app^
 ||doggolicious.com^
 ||doggopoggo.com^
+||doggrelbricken.cyou^
 ||doggrellowder.com^
 ||doggroomingnews.com^
 ||doggydelightz.com^
@@ -450842,7 +450870,6 @@ zzpwoning.com
 ||domaineprivatefort.web.app^
 ||domainestimation.com^
 ||domainestore.com^
-||domainexecutiveofficer.com^
 ||domainforum.de.intellitxt.com^
 ||domainfunctionfr.firebaseapp.com^
 ||domainfwd.com^
@@ -451876,7 +451903,6 @@ zzpwoning.com
 ||down.fwqlt.com^
 ||down.globexcom.top^
 ||down.gotek.com.cn^
-||down.gscmicc.com^
 ||down.guangsu.cn^
 ||down.honglimocc.com^
 ||down.hzinsoo.com^
@@ -452072,13 +452098,9 @@ zzpwoning.com
 ||download01.anxiousai.com^
 ||download01.pdfscraper.site^
 ||download01.sharkeagle.com^
-||download03.masterlifemastermind.net^
 ||download03.pdfgj.com^
-||download04.masterlifemastermind.net^
 ||download04.pdfgj.com^
-||download05.masterlifemastermind.net^
 ||download05.pdfgj.com^
-||download06.internetdownloadhub.biz^
 ||download1.uodoo.com^
 ||download2.marketengines.com^
 ||download207.mediafire.com^
@@ -453257,6 +453279,7 @@ zzpwoning.com
 ||drift.click^
 ||drift.frost-wilder.ru^
 ||drift.gi0wmarsh.ru^
+||drift.gr0ssgar.top^
 ||drift.h0bblenet.ru^
 ||drift.hre9in7mamma.ru^
 ||drift.rapidst0ne.ru^
@@ -453525,6 +453548,7 @@ zzpwoning.com
 ||droopyteacher.com^
 ||drop-box-cyan-magazines.surge.sh^
 ||drop-jup.org^
+||drop.br1ghtmist.ru^
 ||drop.crashes.ng.thewitcher.com^
 ||drop.polarmobile.com^
 ||drop7.st1rlingpad.ru^
@@ -454195,6 +454219,7 @@ zzpwoning.com
 ||dswagqnjedlcq.site^
 ||dswckxxivdrjj.website^
 ||dsweeps.club^
+||dswiqasjjcvsa.online^
 ||dswp5.voluumtrk.com^
 ||dswwghrlwwcm.com^
 ||dsxbgkphjyrngo.bid^
@@ -456253,7 +456278,6 @@ zzpwoning.com
 ||e-zeeinternet.com^
 ||e-zeitung.de^
 ||e-zpass.com-
-||e-zpassdf.cfd^
 ||e-zshopper.activeshopper.com^
 ||e-zus.org^
 ||e.0u7y.ru^
@@ -458845,6 +458869,7 @@ zzpwoning.com
 ||ecto-stg.flurry.com^
 ||ecto.flurry.com^
 ||ectobaker.com^
+||ectogchame.digital^
 ||ectomlinson.com^
 ||ectotmecop.pro^
 ||ectraders.com^
@@ -459052,7 +459077,6 @@ zzpwoning.com
 ||edextadre.cn10.life.cdn.cloudflare.net^
 ||edf-consommation.com^
 ||edf-contact.fr^
-||edf-domtom.info^
 ||edf-electricite.info^
 ||edf-france-energie.com^
 ||edf-info.fr^
@@ -459547,7 +459571,6 @@ zzpwoning.com
 ||eduwhirls.com^
 ||eduwisezone.com^
 ||eduy.com^
-||eduzzjy.com^
 ||edva722.xyz^
 ||edvbyybaviln.com^
 ||edvfwlacluo.com^
@@ -459892,6 +459915,7 @@ zzpwoning.com
 ||eersutoo.net^
 ||eerteebobsoompe.net^
 ||eertoamogn.net^
+||eerttt.sitew.org.uk^
 ||eesaitsehal.xyz^
 ||eesegsmoyqyswiso.xyz^
 ||eeservicebt.m-pages.com^
@@ -461599,6 +461623,7 @@ zzpwoning.com
 ||electroworld.sk.d1.sc.omtrdc.net^
 ||electrubtc.org^
 ||electrum-wallet.icu^
+||electrum-wallets.io^
 ||electrum.is^
 ||electrumbase.com^
 ||electrumbuild.com^
@@ -461669,7 +461694,6 @@ zzpwoning.com
 ||element-seicho.com^
 ||elementaleons.com^
 ||elementaltv.io^
-||elementarformaturas.com^
 ||elementary-side.pro^
 ||elementary-travel.pro^
 ||elementarycat.pro^
@@ -463173,7 +463197,6 @@ zzpwoning.com
 ||empik.today^
 ||empion.io^
 ||empire-client-tracking.goodgamestudios.com^
-||empire-detail.com^
 ||empireascend.com^
 ||empirecdn.io^
 ||empiredisastrouslonesome.com^
@@ -464185,6 +464208,7 @@ zzpwoning.com
 ||englishparks.com^
 ||englishrep.ru^
 ||englobingoopmzqu.download^
+||engorewhiting.cyou^
 ||engorprima.pro^
 ||engq.cn^
 ||engracecabanas.click^
@@ -465141,7 +465165,6 @@ zzpwoning.com
 ||epigealganosis.website^
 ||epigeansubnote.qpon^
 ||epigrlunga.pro^
-||epigrtrogl.pro^
 ||epikads.com^
 ||epikaizoholdings.com^
 ||epilapunti.com^
@@ -465933,7 +465956,6 @@ zzpwoning.com
 ||erorblackday.xyz^
 ||erosadv.com^
 ||erosionchaste.com^
-||erosmama.com^
 ||erosponsorki.pl^
 ||erosyndc.com^
 ||eroterest.net^
@@ -466896,7 +466918,6 @@ zzpwoning.com
 ||esteemtusk.com^
 ||estelle.us.intellitxt.com^
 ||estensakh.ir^
-||estep-co.us^
 ||esterintru.pro^
 ||esterlonder.com^
 ||estgamb.com^
@@ -467492,6 +467513,7 @@ zzpwoning.com
 ||ethmypool.com^
 ||ethmz.com^
 ||ethn.io^
+||ethnallobules.shop^
 ||ethnarc.de^
 ||ethnee.com^
 ||ethnic1266.fun^
@@ -473092,7 +473114,6 @@ zzpwoning.com
 ||fakebookalerts.live^
 ||fakecell.sys.miui.com^
 ||fakedisguise.com^
-||fakedoc.shop^
 ||fakedotcreative.com^
 ||fakehab.com^
 ||fakehshear.shop^
@@ -473618,12 +473639,10 @@ zzpwoning.com
 ||faq-licence.gl.at.ply.gg^
 ||faq-samuel.gl.at.ply.gg^
 ||faq.algolia.com^
-||faq.dnqdl.cn^
 ||faq.erqqu.cn^
 ||faq.itupdates.support^
 ||faq.revcontent.com^
 ||faq.rncfe.cn^
-||faq.vaoow.cn^
 ||faqflcoaovd.com^
 ||faqirsgoliard.top^
 ||faqirupwells.cfd^
@@ -474655,6 +474674,7 @@ zzpwoning.com
 ||fatlossremedies.com^
 ||fatlyrebird.pro^
 ||fatmedia.io^
+||fatpers.nhfurs.com^
 ||fatpirate-casino.fr^
 ||fatpony.pro^
 ||fatpython.pro^
@@ -476826,6 +476846,7 @@ zzpwoning.com
 ||fflbpi.top^
 ||fflemfnsehvfj.space^
 ||fflink.net^
+||fflngpkg.space^
 ||ffmehcg.cn^
 ||ffmemberrship-garena.com^
 ||ffmembershipggarena.com^
@@ -476837,6 +476858,7 @@ zzpwoning.com
 ||ffmouse.com^
 ||ffms.pt/sites/default/files/hotjar/hotjar.script.js
 ||ffn.com^
+||ffng5.qu1ck.ru^
 ||ffnui.spanx.com^
 ||ffnvhig.cn^
 ||ffoifngclwfuey.com^
@@ -477086,7 +477108,6 @@ zzpwoning.com
 ||fhndaxrnudbf.net^
 ||fhnw-server-side-tagging-europe-322498167165.europe-west6.run.app^
 ||fhodizssguipg.store^
-||fhor45gwgs.lat^
 ||fhotodromservicefr.firebaseapp.com^
 ||fhotodromservicefr.web.app^
 ||fhpfkrp298hnx3tu-k8swm6vyh-hilary-manies-projects.vercel.app^
@@ -481321,6 +481342,7 @@ zzpwoning.com
 ||flusoprano.com^
 ||fluspaisa.cyou^
 ||fluss.1ittleriver.ru^
+||fluss.br-0-ad-temp-1-ate.ru^
 ||fluss.granitekamm.ru^
 ||fluss.nickelweide.ru^
 ||fluss.ottercrest.ru^
@@ -481600,6 +481622,7 @@ zzpwoning.com
 ||fmcurling.org^
 ||fmcwqmwdaubb.com^
 ||fmdata.imgsmail.ru^
+||fmdngjod.space^
 ||fmdwbsfxf0.com^
 ||fmeapau3se.com^
 ||fmebili.info^
@@ -483651,6 +483674,7 @@ zzpwoning.com
 ||fox-bitcoin.com^
 ||fox-forden.ru^
 ||fox-hd.com^
+||fox.c1earwave.ru^
 ||fox.com.ssl.d2.sc.omtrdc.net^
 ||fox.oncapeservices.com^
 ||fox.visionaudiovisual.com^
@@ -486209,7 +486233,6 @@ zzpwoning.com
 ||freudenthal-de.intellitxt.com^
 ||freudenthal.de.intellitxt.com^
 ||freudina.com^
-||freuek.com^
 ||freund-gentak.net^
 ||freund-gentakapp.com^
 ||freundgentak-engine.com^
@@ -486485,6 +486508,7 @@ zzpwoning.com
 ||frolickingfables.pro^
 ||frolickingfields.pro^
 ||frolicmark.pro^
+||frolicpoach.help^
 ||frolictells.com^
 ||froling.bee.pl^
 ||frollexcit.pro^
@@ -488093,6 +488117,7 @@ zzpwoning.com
 ||fureto.top^
 ||furfaspica.pro^
 ||furginator.pw^
+||furgppujqwmwh.online^
 ||furhewrestroom.com^
 ||furifli.xyz^
 ||furilimads.com^
@@ -488555,6 +488580,7 @@ zzpwoning.com
 ||fwg0b0sfig.s.ad6media.fr^
 ||fwgnjvekyjmsxem.net^
 ||fwgwz4.webwave.dev^
+||fwhgateqkumw.space^
 ||fwhiygzlhmklt.website^
 ||fwi.71o9.ru^
 ||fwias.adsafeprotected.com^
@@ -490529,7 +490555,6 @@ zzpwoning.com
 ||gamezingzone.com^
 ||gamezjet.com^
 ||gamezlinks.net^
-||gamezmelt.com^
 ||gamfloow.digital^
 ||gamgkcshehyvm.online^
 ||gamhack.com^
@@ -492252,6 +492277,7 @@ zzpwoning.com
 ||geeksprosoftwareprints.org^
 ||geekstogo.us.intellitxt.com^
 ||geekupdates.notion.site^
+||geekwq.wqwyyw.com^
 ||geelitenet2.112.2o7.net^
 ||geelonggastro.com.au^
 ||geeptaunip.net^
@@ -494091,6 +494117,7 @@ zzpwoning.com
 ||gfeaegaepsgp.com^
 ||gfehi7.2ihsfa.com^
 ||gfemarket.com^
+||gfepuwckni.store^
 ||gff6166tdt2i4fc155zi11.info^
 ||gff660fg.xyz^
 ||gffoycbmmfptr.space^
@@ -495439,6 +495466,7 @@ zzpwoning.com
 ||givreno.top^
 ||giwl0p3gx7.com^
 ||giwvzhflxv.bid^
+||giwypipteywvx.online^
 ||gix-dera-app.com^
 ||gix-dera-app.net^
 ||gixa.weebly.com^
@@ -495579,6 +495607,7 @@ zzpwoning.com
 ||gjxz2.ucweb.com^
 ||gjyfmlrqssyj.com^
 ||gjysjl.com^
+||gjyyjjjpsmltb.net^
 ||gk.dnek6.ru^
 ||gk.dopiestdappled.com^
 ||gk.jobbingneftgil.shop^
@@ -495794,6 +495823,7 @@ zzpwoning.com
 ||glanz-virex.net^
 ||glanz.c0ldwater.ru^
 ||glanz.c1oudmap.ru^
+||glanz.co0peratre4er.ru^
 ||glanz.harmfu1tw0.ru^
 ||glanz.kick5ubs4ance.ru^
 ||glanz.moonf1eld.ru^
@@ -495862,6 +495892,7 @@ zzpwoning.com
 ||glasstropics.com^
 ||glassvisual.pro^
 ||glassy.glassybot.com^
+||glassypfast.karelvandenbussche.com^
 ||glaswall.online^
 ||glaters.com^
 ||glatter-anavar.com^
@@ -496008,6 +496039,7 @@ zzpwoning.com
 ||gleanhoterr.top^
 ||glebesfacsim.rest^
 ||glebplay.pro^
+||glecjwgrihxui.site^
 ||glecmaim.net^
 ||glededeceits.life^
 ||gledrobaugnuk.net^
@@ -496044,6 +496076,7 @@ zzpwoning.com
 ||gleis.atlasufer.ru^
 ||gleis.auroralinde.ru^
 ||gleis.capi1aryhold.ru^
+||gleis.co-0-peratre-4-er.ru^
 ||gleis.cometlinde.ru^
 ||gleis.cometpfad.ru^
 ||gleis.dawnforge.ru^
@@ -496062,7 +496095,6 @@ zzpwoning.com
 ||glempirteechacm.com^
 ||glempujomtie.net^
 ||glen-cat-4541.typedream.app^
-||glen.g0ldenspire.ru^
 ||glen9a41.myportfolio.com^
 ||glencoaching.com^
 ||glendeedogrescue.co.uk^
@@ -496676,6 +496708,7 @@ zzpwoning.com
 ||glow-mantle-platform.com^
 ||glow-mmn.com^
 ||glow-xuq.com^
+||glow.br0adtemp1ate.ru^
 ||glow.gulag1emur.ru^
 ||glow.k8li.online^
 ||glow.l2-1-w2.ru^
@@ -501176,6 +501209,7 @@ zzpwoning.com
 ||grat.shadowfelsen.ru^
 ||grat.stormpeak.ru^
 ||grat.thunderkiesel.ru^
+||grat4.hum2nk0str.ru^
 ||grat5.mintzone.ru^
 ||grateeltoaps.net^
 ||grateful-desk.com^
@@ -501721,6 +501755,7 @@ zzpwoning.com
 ||greetingsyoungqq.com^
 ||greetzebra.com^
 ||greev.randbinternationaltravel.com^
+||greevedaikon.cfd^
 ||greewepi.net^
 ||greewoabaikr.com^
 ||grefagroon.com^
@@ -501865,7 +501900,6 @@ zzpwoning.com
 ||gricketsitemailupgrade.weebly.com^
 ||gricoowhaibsaid.net^
 ||grid.plasmabout.ru^
-||grid.v0rt3xlab.ru^
 ||grid6.wreckly.ru^
 ||gridautopecas.com^
 ||gridbelow.com^
@@ -501884,7 +501918,6 @@ zzpwoning.com
 ||gridlinkg.info^
 ||gridlockparadise.com^
 ||gridmidia.com^
-||gridnodeessentials.com^
 ||gridnovablock.com^
 ||gridpulseg.info^
 ||gridrelay27.co^
@@ -503148,6 +503181,7 @@ zzpwoning.com
 ||gthug.agrenappliance.com^
 ||gtiacba3s0em.top^
 ||gtimarkets.com^
+||gtiqqtzkozulp.net^
 ||gtiqupisxnouh.site^
 ||gtir5die6sutngr.jpn.com^
 ||gtithiojf.com^
@@ -506024,6 +506058,7 @@ zzpwoning.com
 ||gxbpiovpukbaq.website^
 ||gxbr.cnzz.com^
 ||gxbrh.com^
+||gxbyumjkqzvtr.online^
 ||gxc.mjg1.ru^
 ||gxcqay.icu^
 ||gxdowell.cn^
@@ -506143,7 +506178,6 @@ zzpwoning.com
 ||gyahidmf.bid^
 ||gyakunan.net^
 ||gyakusimei.com^
-||gyandeepschoolmandla.com^
 ||gyantak.com^
 ||gyazo.nl^
 ||gybhmx.whateverworks.com^
@@ -506280,6 +506314,7 @@ zzpwoning.com
 ||gyvyokpmmb.bid^
 ||gyvzz.ouasflpydty21tf.bapb.gdn^
 ||gywamype.com^
+||gywjhmevawnmg.site^
 ||gywwzmejfzkrs.site^
 ||gyxhwdysotvbj.store^
 ||gyxithivance.com^
@@ -507120,6 +507155,7 @@ zzpwoning.com
 ||hackingcrypto.xyz^
 ||hackingfacebook.net^
 ||hackingforgood.com^
+||hackingskye.com^
 ||hackiosgames.com^
 ||hackittoday.com^
 ||hackkitarena.tk^
@@ -507279,6 +507315,7 @@ zzpwoning.com
 ||hagstromspsm.info^
 ||haguewavelet.qpon^
 ||hagujcj.biz^
+||hagvimjlyc.store^
 ||hah.su^
 ||haha-yo.com^
 ||haha4wowo.com^
@@ -507335,6 +507372,7 @@ zzpwoning.com
 ||hain.maplerand.ru^
 ||hain.martenhain.ru^
 ||hain.ravensteg.ru^
+||hain3.netit-0-c-0-rec.ru^
 ||haiqinrubber.com^
 ||hair-gale.gl.at.ply.gg^
 ||hairbilby.com^
@@ -508201,7 +508239,11 @@ zzpwoning.com
 ||harmony573.top^
 ||harmonybitspire-system.com^
 ||harmonybitspire.com^
+||harmonycoreg.info^
+||harmonyfieldg.info^
 ||harmonyfit.info^
+||harmonyflowg.info^
+||harmonyforgeg.info^
 ||harmonyhollow.net^
 ||harmonymeadowroad.com^
 ||harmonynaturals.store^
@@ -509783,6 +509825,7 @@ zzpwoning.com
 ||heartchakracheckup.com^
 ||heartddating.com^
 ||heartdiscipleinsolent.com^
+||heartflowg.info^
 ||heartforchrist.net^
 ||hearthealthpro.com^
 ||hearthealthstore.com^
@@ -509796,6 +509839,7 @@ zzpwoning.com
 ||heartland-d.openx.net^
 ||heartlessanthemantiquity.com^
 ||heartlinewellness.com^
+||heartlinkg.info^
 ||heartmatch.jp^
 ||heartmath.ojrq.net^
 ||heartnesst.com^
@@ -509807,6 +509851,7 @@ zzpwoning.com
 ||heartonmysleeve.com^
 ||heartp.top^
 ||heartpulse.cfd^
+||heartpulseg.info^
 ||heartrevitalized.com^
 ||hearts-cross-promo.prod.mwx.ext.mobilityware.com^
 ||heartsonghoney.com^
@@ -509814,6 +509859,7 @@ zzpwoning.com
 ||heartstring66.com^
 ||heartsuniited.com^
 ||hearttohappy.com^
+||heartwardg.info^
 ||heartwarmth.com^
 ||hearty-text.pro^
 ||heartybuga.vercel.app^
@@ -509911,7 +509957,6 @@ zzpwoning.com
 ||heavyservice.net^
 ||heavysquirrel.pro^
 ||heawnqbmsi.bid^
-||heaysman.com^
 ||heb.d2.sc.omtrdc.net^
 ||hebadu.com^
 ||hebaidu.cc^
@@ -510009,6 +510054,7 @@ zzpwoning.com
 ||heezyocdqfdfk.site^
 ||hef-offers.com^
 ||hefa.hu^
+||hefdoifglbevofd.space^
 ||hefei64.com^
 ||hefgfqcyfmv.com^
 ||hefgynqlzwi.com^
@@ -510571,6 +510617,7 @@ zzpwoning.com
 ||helvetia-streaming.ch^
 ||helvetia.demdex.net^
 ||helvetianviw.info^
+||helvionex.com^
 ||helzberg.7eer.net^
 ||hem41xm47.com^
 ||hemailaccessonline.com^
@@ -511075,6 +511122,7 @@ zzpwoning.com
 ||hewoman.info^
 ||hewornpllzsau.site^
 ||hewqol.com^
+||hewytei7.com^
 ||hexacash.com^
 ||hexadsnatu.pro^
 ||hexaelecthyperluxchronolo.com^
@@ -511473,7 +511521,6 @@ zzpwoning.com
 ||hhbypdoecp.com^
 ||hhcollect.co^
 ||hhcskj.com^
-||hhd075.icu^
 ||hhdbbixxs.bid^
 ||hhdfk.startrepairingcredit.com^
 ||hhdhvxcvx.mvt.so^
@@ -513110,6 +513157,7 @@ zzpwoning.com
 ||hlstatus.com^
 ||hlstlyy.com^
 ||hlsvod.rambler.eaglecdn.com^
+||hlsxshzkwsliuv.space^
 ||hlt6o.voluumtrk.com^
 ||hltpdd.icu^
 ||hltvorg.com^
@@ -514519,6 +514567,7 @@ zzpwoning.com
 ||hopefulsweeper.blogspot.com^
 ||hopefulvertical.com^
 ||hopehomecaresolutions.com^
+||hopejmashed.legareduvin.com^
 ||hopeldo.com^
 ||hopemedicalsuppliers.com^
 ||hopemobi.net^
@@ -514610,6 +514659,7 @@ zzpwoning.com
 ||horizon.sailthru.com^
 ||horizonasi.com^
 ||horizonbcbsnj.sc.omtrdc.net^
+||horizonbeamg.info^
 ||horizonesco.com^
 ||horizoneurope.ukri.org^
 ||horizonfcu.weebly.com^
@@ -515809,7 +515859,6 @@ zzpwoning.com
 ||hqjqjycvwpyhg.website^
 ||hqjt.com^
 ||hqjuww.kolesa-darom.ru^
-||hqjvxno.rnjbflvfhaf.top^
 ||hqjyzy.com^
 ||hqkelsrnldxnx.icu^
 ||hqkoismxnocd.com^
@@ -517003,6 +517052,7 @@ zzpwoning.com
 ||hugyhhguhij.w3spaces.com^
 ||hugysoral.digital^
 ||huhaok.com^
+||huheibvjcvjc.store^
 ||huhit.site^
 ||huhrxmgiofzna.com^
 ||huhuahotels.com^
@@ -518952,7 +519002,6 @@ zzpwoning.com
 ||i8y156.ru^
 ||i9.diab4uette.ru^
 ||i9.fabiankorte.net^
-||i9.hiringimmediatelyjobs.com^
 ||i9.mayoblast.com^
 ||i902.lopenlehti.fi^
 ||i90ptshd.top^
@@ -519765,6 +519814,7 @@ zzpwoning.com
 ||icloud.apple-*.cn^
 ||icloud.com.auth-id.us^
 ||icloud.map-app-location.info^
+||icloud.nttyyp.cn^
 ||icloud.pm^
 ||icloud.support^
 ||icloud.vizury.com^
@@ -521184,6 +521234,7 @@ zzpwoning.com
 ||ifwgkkvmwxzgp.store^
 ||ifwnukimkgocb.site^
 ||ifwry.yeslaptop.win^
+||ifwtkyfcizwlj.space^
 ||ifwuju.graymelin.com^
 ||ifx.pro-market.net^
 ||ifxinyicrm.com^
@@ -521921,6 +521972,7 @@ zzpwoning.com
 ||ikmmsoihdmfkbh.bid^
 ||ikmoon.com^
 ||ikmtrust.com^
+||ikmxmgksuuuxpgs.com^
 ||ikmymeivze.com^
 ||iknctklddhoh.com^
 ||ikneio.aquantindia.com^
@@ -526637,6 +526689,7 @@ zzpwoning.com
 ||impaninuzz.pro^
 ||impansciol.pro^
 ||impansluma.pro^
+||impapangli.digital^
 ||impapblowb.pro^
 ||impapcomin.pro^
 ||impaprispa.pro^
@@ -530138,6 +530191,7 @@ zzpwoning.com
 ||inndir.com^
 ||inndl.com^
 ||inne-12948584.rest^
+||inne-1932834845.rest^
 ||inne-194385754.rest^
 ||inne-23848452.rest^
 ||inne-5689432.rest^
@@ -531686,6 +531740,7 @@ zzpwoning.com
 ||instantsprix3-platform.com^
 ||instantsprix30review.com^
 ||instantstaybook.com^
+||instantstayhotel.com^
 ||instantsteetview.com^
 ||instantstog-platform.com^
 ||instanttowncarservice.com^
@@ -534000,6 +534055,7 @@ zzpwoning.com
 ||ipdfosose.web.app^
 ||ipdlsrwctdjb.com^
 ||ipdmlm.yoriso.com^
+||ipdqegogqbgwa.space^
 ||ipe-4you.at^
 ||ipe.ivitrack.com^
 ||ipe.pcwelt.de^
@@ -534151,6 +534207,7 @@ zzpwoning.com
 ||ipo.net^
 ||ipoffice.xyz^
 ||ipoglrifor.pro^
+||ipohjrfccfpxhovtnm.store^
 ||ipoker.com^
 ||ipominer.com^
 ||iponomarev.org^
@@ -535672,7 +535729,6 @@ zzpwoning.com
 ||itp.yaku-job.com^
 ||itpatratr.com^
 ||itpaystolearn.com^
-||itpdf.org^
 ||itpebis03.deep2031.com^
 ||itpebis03.recella3d.com^
 ||itpest.cn^
@@ -536027,7 +536083,6 @@ zzpwoning.com
 ||ivebuyrkn.com^
 ||ivegg.nuudcare.es^
 ||ivemjdir-g.top^
-||iventes.store^
 ||iveo.com.my^
 ||iverdocce.com^
 ||ivermectin-12mg.com^
@@ -537300,6 +537355,7 @@ zzpwoning.com
 ||jahsrhlp.com^
 ||jahtiin.net^
 ||jahvehbitnet.rest^
+||jaibizeenaiphe.com^
 ||jaichaushee.com^
 ||jaicsb.com^
 ||jaid.ru^
@@ -537314,6 +537370,7 @@ zzpwoning.com
 ||jailbulb.com^
 ||jaildxlhdnvo.download^
 ||jailiaelet.com^
+||jailishwabbles.cfd^
 ||jailmaintaincracking.com^
 ||jaimeceline.elizabethrell.xyz^
 ||jaimefernandez203040.duckdns.org^
@@ -537414,7 +537471,6 @@ zzpwoning.com
 ||james.edge45.testandtarget.omniture.com^
 ||jamesaustin.shop^
 ||jamesbelderbos.com^
-||jamescooperblog.com^
 ||jameser.com^
 ||jamesokumu.com^
 ||jamesprop.com^
@@ -538673,7 +538729,6 @@ zzpwoning.com
 ||jenkinkuttab.com^
 ||jenkins.diteng.site^
 ||jenkins.kissmetrics.com^
-||jenmetiopklert.com^
 ||jennard.netlify.app^
 ||jennduncanphoto.com^
 ||jennifer-kenny.in^
@@ -539686,7 +539741,6 @@ zzpwoning.com
 ||jiuku.cc^
 ||jiumai88.com^
 ||jiuredse.de^
-||jiushuntw.com^
 ||jiusnansss.com^
 ||jiussharefiles.ddns.net^
 ||jiuweida.com^
@@ -540136,7 +540190,6 @@ zzpwoning.com
 ||jmfvvgbmaeklk.online^
 ||jmgads.com^
 ||jmgam.drschollsshoes.com^
-||jmgehn.cn^
 ||jmghohdn.bid^
 ||jmgqvdhjfidwty.com^
 ||jmgyhz.com^
@@ -540162,6 +540215,7 @@ zzpwoning.com
 ||jmnzx3.hbg.hebdenbridgedental.co.uk^
 ||jmonline.com.br/novo/banner_
 ||jmonline.com.br/uploads/banners/
+||jmooinzy.store^
 ||jmosa.pistolpete.com^
 ||jmp-assets.com^
 ||jmp.realtraq.net^
@@ -540603,7 +540657,6 @@ zzpwoning.com
 ||joelosteenministries.112.2o7.net^
 ||joelosteenministries.tt.omtrdc.net^
 ||joemonster.org/i/js/cmp.js
-||joepinojazz.com^
 ||joeporn.com^
 ||joescamp24160.activehosted.com^
 ||joescamp31389.activehosted.com^
@@ -541370,7 +541423,6 @@ zzpwoning.com
 ||jp.treasuredata.com^
 ||jp.tubemogul.com^
 ||jp1media.com^
-||jp4dsos.store^
 ||jp5ajb.short.gy^
 ||jp6.ic0n1cshore.ru^
 ||jp84434.com^
@@ -542672,6 +542724,7 @@ zzpwoning.com
 ||juisesenaite.cyou^
 ||juispsvgtproselytes.review^
 ||juivzbrnsmmda1rfp2oacf3lllfbs1516218322.nuid.imrworldwide.com^
+||jujg2.br1ghtmist.ru^
 ||jujpetacibftww.bid^
 ||jujuads.com^
 ||jujutata.nsfera.pl^
@@ -543306,6 +543359,7 @@ zzpwoning.com
 ||jvbvng.notino.it^
 ||jvbxyldxbhda.com^
 ||jvcnmta.top^
+||jvcnxdiodvhbw.site^
 ||jvcspl.com^
 ||jvcswgskvw.com^
 ||jvdoukkjmbwaq.website^
@@ -543677,6 +543731,7 @@ zzpwoning.com
 ||jyn.va4n.ru^
 ||jynaqai.com^
 ||jynbcpfwvazazd.com^
+||jynefyo8.com^
 ||jynhztwrsl.com^
 ||jynp9m209p.com^
 ||jynthorisview.com^
@@ -544694,6 +544749,8 @@ zzpwoning.com
 ||kamitoto.cyou^
 ||kamiyayday.top^
 ||kamju.cestlavie-newyork.com^
+||kamm.awreti3uette.ru^
+||kamm.br0adtemp1ate.ru^
 ||kamm.darkr1ver.ru^
 ||kamm.driftklause.ru^
 ||kamm.gulag1emur.ru^
@@ -544827,7 +544884,6 @@ zzpwoning.com
 ||kaojrivmhys.com^
 ||kaolinoleous.com^
 ||kaomanko.axesslove.com^
-||kaoshaven.com^
 ||kaotic.com^
 ||kaougnoklpzjb.space^
 ||kaoyanedu.net^
@@ -545263,7 +545319,6 @@ zzpwoning.com
 ||kautefaunenit.net^
 ||kautskyszx.info^
 ||kauvqr.schulteherenmode.nl^
-||kav-antivibration.com^
 ||kav2.mirtesen.ru^
 ||kav2018.mirtesen.ru^
 ||kavabrlbge.com^
@@ -545461,6 +545516,7 @@ zzpwoning.com
 ||kbphotostudio.com^
 ||kbpijqva.com^
 ||kbprllyfvqns.bid^
+||kbqbumeor.store^
 ||kbqebfcubeiaa.com^
 ||kbqgv.ruffwear.co.uk^
 ||kbqihabjlufvf.club^
@@ -548284,6 +548340,7 @@ zzpwoning.com
 ||klee.thistleforge.ru^
 ||klee.tundragrund.ru^
 ||klee.walnutsteg.ru^
+||klee5.co0peratre4er.ru^
 ||kleea.kieselufer8.ru^
 ||kleea.st0nedrift.ru^
 ||kleerdenin.com^
@@ -548991,6 +549048,7 @@ zzpwoning.com
 ||knuchpdaipmb.myfunnelish.com^
 ||knucklegourmet.com^
 ||knul.cn^
+||knulwwnyhxna.store^
 ||knutenegros.pro^
 ||knutgisupre.pro^
 ||knv.one^
@@ -550088,6 +550146,7 @@ zzpwoning.com
 ||kraugelfinbots.info^
 ||kraut.clouddrop.ru^
 ||kraut.maplerand.ru^
+||kraut2.co-0-peratre-4-er.ru^
 ||krautbyte.com^
 ||kravantri-system.com^
 ||kravantri.com^
@@ -551474,6 +551533,7 @@ zzpwoning.com
 ||kxwhiogrswx.com^
 ||kxwkbkfespyh.com^
 ||kxwuskjg.bid^
+||kxxyhjamtwozu.space^
 ||kxyevjvmalerq.bid^
 ||kxyumk.icu^
 ||kxzmmtdx.com^
@@ -551608,6 +551668,7 @@ zzpwoning.com
 ||kyvexor-speed-gpt-app.net^
 ||kyvexor-speedgpt.com^
 ||kyveys.com^
+||kyvjvkebqgb.space^
 ||kyvmeizdyb.com^
 ||kyvoriax-ai-platform.com^
 ||kyvoriax-ai.pro^
@@ -554658,6 +554719,7 @@ zzpwoning.com
 ||ldyiuvdoahxz.com^
 ||ldynamicspublicapi.leadforensics.com^
 ||ldyuqhvjhajps.site^
+||ldywwpjzxbyefiba.store^
 ||ldyztceolxrmy.space^
 ||ldzqhq.biz^
 ||ldztyfgxf.firebaseapp.com^
@@ -555566,7 +555628,6 @@ zzpwoning.com
 ||legalserv.in^
 ||legalservicesaid.com^
 ||legalsurrogacy.kz^
-||legaltacticsandtraining.com^
 ||legalth.com^
 ||legalview.com^
 ||legalzoom.tt.omtrdc.net^
@@ -557908,7 +557969,6 @@ zzpwoning.com
 ||likeshop.life^
 ||likeshop.top^
 ||likespike.com^
-||likesubpro68.help^
 ||likethedog.com^
 ||likevertising.com^
 ||likeviet07.online^
@@ -557966,6 +558026,7 @@ zzpwoning.com
 ||lilysilk.email^
 ||lilystyle.ai^
 ||lilytailsblog.blogspot.com^
+||limaceacellarjumble.cfd^
 ||limairoven.pro^
 ||limam23874kwifa.zapto.org^
 ||limangode.widget.criteo.com^
@@ -559853,6 +559914,7 @@ zzpwoning.com
 ||ljbofr.icu^
 ||ljbpfe.notino.es^
 ||ljbwzlmlzvmvj.top^
+||ljbwzlmlzvvvy.top^
 ||ljbwzlmlzzezq.top^
 ||ljc.coupang.com^
 ||ljcazzzclwglt.site^
@@ -564912,7 +564974,6 @@ zzpwoning.com
 ||loom3.fr0gpulse.ru^
 ||loom3otto.com^
 ||loom5.rumblekin.ru^
-||loom7.fr0gpulse.ru^
 ||loomarnia.com^
 ||loomdeviate.com^
 ||loomftraiv.pro^
@@ -564942,6 +565003,7 @@ zzpwoning.com
 ||loooka.my^
 ||loop.bengali-sex-video.com^
 ||loop.hiojoo.sa.com^
+||loop6.gr0ssgar.top^
 ||loopa.net.au^
 ||loopaautomate.com^
 ||loopanalytics.com^
@@ -566248,6 +566310,7 @@ zzpwoning.com
 ||lrtoepo.firebaseapp.com^
 ||lrtoepo.web.app^
 ||lruiz.iedm.com^
+||lrukvnjpgdyfpv.store^
 ||lruvvletnhv.com^
 ||lruyzrlcef.com^
 ||lrv1.cfd^
@@ -566478,7 +566541,6 @@ zzpwoning.com
 ||ltdcef.mclanee.co.kr^
 ||ltdcontpal.com^
 ||ltdlo.pro^
-||ltdpdf.net^
 ||ltds.cc^
 ||ltdutduvmdrkony.com^
 ||ltecrf.dhgate.com^
@@ -568340,7 +568402,6 @@ zzpwoning.com
 ||lylconsultores.co^
 ||lylileo.com^
 ||lylowerhughe.com^
-||lylred.space^
 ||lyls.tlnk.io^
 ||lylufhuxqwi.com^
 ||lylufhuxqwi.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -569200,7 +569261,6 @@ zzpwoning.com
 ||m.vheituz.cn^
 ||m.vintedmalls.com^
 ||m.vintedplatform.com^
-||m.vip-aims.com^
 ||m.vipvergognosi.com^
 ||m.vncongthue.top^
 ||m.vnforapps.com^
@@ -569652,6 +569712,7 @@ zzpwoning.com
 ||m6dx.xb1-60.ru^
 ||m6hg.bvum6.ru^
 ||m6hk.nyqb0.ru^
+||m6inok1m5mmzi2.cfd^
 ||m6jjuexx8q.data.adobedc.net^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||m6r.eu^
@@ -570906,7 +570967,6 @@ zzpwoning.com
 ||mail.exoclick.com^
 ||mail.finwellgroup.com^
 ||mail.firsthome.com^
-||mail.fuckingfor.live^
 ||mail.ghmproperties.com^
 ||mail.gofastbits.nl^
 ||mail.google.oscarmar.com^
@@ -571922,7 +571982,6 @@ zzpwoning.com
 ||manageauth-accountidapp1e-2y4ca.duckdns.org^
 ||manageauth-accountidapp1e-a3qgm.duckdns.org^
 ||manageauth-accountidapp1e-ahblw.duckdns.org^
-||manageauth-accountidapp1e-eu3dg.duckdns.org^
 ||manageauth-accountidapp1e-mhy8n.duckdns.org^
 ||managebox.xyz^
 ||managecenter.pages.art.br^
@@ -572273,7 +572332,6 @@ zzpwoning.com
 ||manualpeasantconnoisseur.com^
 ||manualranch.com^
 ||manualsaid.com^
-||manualsbyonestart.com^
 ||manualsearch-cdn.org^
 ||manucustomerprod.112.2o7.net^
 ||manudfregh.pro^
@@ -575055,7 +575113,6 @@ zzpwoning.com
 ||mascaraowners.com^
 ||mascarapersonality.com^
 ||mascarasprotectoras.com^
-||masceeboll.pro^
 ||masceextra.pro^
 ||mascharpio.pro^
 ||maschguern.pro^
@@ -575140,6 +575197,7 @@ zzpwoning.com
 ||masqueradethousand.com^
 ||masrtwfevkqd.bid^
 ||mass-traffic.com^
+||mass.gov-xno.bond^
 ||mass1soma.com^
 ||massacreluxuriouschristening.com^
 ||massacrepompous.com^
@@ -575546,7 +575604,6 @@ zzpwoning.com
 ||maticmail.com^
 ||maticooads.com^
 ||matildawu.online^
-||matildesadvocacia.com^
 ||matimaski-logiin.godaddysites.com^
 ||matimati.site^
 ||matimskwlt.webflow.io^
@@ -578417,6 +578474,7 @@ zzpwoning.com
 ||mebleonline.shop^
 ||mebleoutlet-eu.shop^
 ||mebleoutlet.shop^
+||meblepremium.shop^
 ||meblepromo.shop^
 ||meblepromocje.shop^
 ||meblepromocyjne.shop^
@@ -580330,7 +580388,6 @@ zzpwoning.com
 ||mentalmonkeycoffeeshop.com^
 ||mentalpowerbase.de^
 ||mentalrecovery.digital^
-||mentalstep.info^
 ||mentalwellbeing.click^
 ||mentalwheels.com^
 ||mentariko.com^
@@ -586221,6 +586278,7 @@ zzpwoning.com
 ||miserlycabinet.com^
 ||misfitbenote.qpon^
 ||misfitrope.qpon^
+||misflicker.com^
 ||misfortunedelirium.com^
 ||misfortunesharply.com^
 ||misgrower.com^
@@ -597672,7 +597730,6 @@ zzpwoning.com
 ||mnverylittlec.org^
 ||mnvgyfpoir.bid^
 ||mnvjibhehv.com^
-||mnwan.com^
 ||mnwbtkeijn.cyou^
 ||mnwmcyyoxm.com^
 ||mnwor.xuanlishi.com^
@@ -598157,6 +598214,7 @@ zzpwoning.com
 ||mobilefuse.nu^
 ||mobilegamerstats.com^
 ||mobilegamestats.com^
+||mobilegaminghubh.info^
 ||mobilegb.com^
 ||mobilego-pl.4923.info^
 ||mobilehacks.net^
@@ -600206,6 +600264,7 @@ zzpwoning.com
 ||moor.emberhochland.ru^
 ||moor.frostgipfel.ru^
 ||moor.glaciertal.ru^
+||moor.hum2nk0str.ru^
 ||moor.immigrant5p.ru^
 ||moor.inha4itmu1ti.ru^
 ||moor.jasperhain.ru^
@@ -600213,6 +600272,7 @@ zzpwoning.com
 ||moor.knollhafen.ru^
 ||moor.moonfenster.ru^
 ||moor.neonkiefer.ru^
+||moor.netit0c0rec.ru^
 ||moor.platinumvale.ru^
 ||moor.redfie1d.ru^
 ||moor.saffronhafen.ru^
@@ -600799,7 +600859,6 @@ zzpwoning.com
 ||motorradcenter.de^
 ||motorradonline.de.intellitxt.com^
 ||motorradpartner.com^
-||motorsharq.com^
 ||motorsksa.com^
 ||motorsport-total.de.intellitxt.com^
 ||motorsportmanagement.co.uk^
@@ -601946,12 +602005,9 @@ zzpwoning.com
 ||msbcniko.44x9ie.top^
 ||msbcniko.51fwut.top^
 ||msbcniko.589o57.top^
-||msbcniko.889rq8.top^
 ||msbcniko.c5x8q5.top^
 ||msbcniko.coos21.top^
 ||msbcniko.e1kadh.top^
-||msbcniko.itzsv4.top^
-||msbcniko.q2wxjj.top^
 ||msbcniko.tgxpea.top^
 ||msbcniko.xjq3ty.top^
 ||msbcniko.z17978.top^
@@ -603644,6 +603700,7 @@ zzpwoning.com
 ||mvakbserenates.review^
 ||mvanee.xyz^
 ||mvas.club^
+||mvasuhdpfivqh.online^
 ||mvb-prime.fr^
 ||mvbbw.com^
 ||mvbcsloqebjfv.site^
@@ -604598,6 +604655,7 @@ zzpwoning.com
 ||myaviatorcar.com^
 ||myawesomecash.com^
 ||myawrthcsjc.com^
+||myayurvedashoppe.com^
 ||myb.statcounter.com^
 ||myb2boffice.info^
 ||mybabele.com^
@@ -605126,6 +605184,7 @@ zzpwoning.com
 ||myhzikjzwaahy.space^
 ||myi33.com^
 ||myiads.com^
+||myiahtxaoxok.com^
 ||myiccu.firebaseapp.com^
 ||myiccu.web.app^
 ||myicloudcam.com^
@@ -608484,7 +608543,6 @@ zzpwoning.com
 ||ncs.eadaily.com^
 ||ncs.es/banner/
 ||ncscu.com^
-||ncsdh.cn^
 ||ncsecuprodanalyticsreportsuite.112.2o7.net^
 ||ncsirrabtlant.bid^
 ||ncspteltd.sc.omtrdc.net^
@@ -611270,7 +611328,6 @@ zzpwoning.com
 ||newsvortexviews.com^
 ||newsvot.com^
 ||newsvoyageonline.com^
-||newswanderlust.com^
 ||newswanderlustonline.com^
 ||newswave.online^
 ||newswebcascade.com^
@@ -614425,6 +614482,7 @@ zzpwoning.com
 ||nohowsankhya.com^
 ||nohsshsxpv.club^
 ||nohu28.world^
+||noi6betlqq3e4gevw9h2jh5w44qz9ejl.rest^
 ||noi9va4ewa.com^
 ||noiaifyednjt.com^
 ||noibocl.com^
@@ -614593,6 +614651,7 @@ zzpwoning.com
 ||nonemhonor.pro^
 ||nonenforceable976.cyltra.onl^
 ||nonengarri.com^
+||nonenv.loyalrummy.com^
 ||nonepost.com^
 ||nonerr.com^
 ||nonethelessaugustcategory.com^
@@ -614614,6 +614673,7 @@ zzpwoning.com
 ||nonflabrang.com^
 ||nonflmosta.pro^
 ||nonflnonal.com^
+||nonfoeugen.digital^
 ||nonfrstrad.pro^
 ||nong3bram.com^
 ||nongamespewers.com^
@@ -615455,7 +615515,6 @@ zzpwoning.com
 ||nouveau-systeme-quantique.com^
 ||nouvelanamilan.com^
 ||nouvelle-appl-quantique.com^
-||nouvelle-aquitaine-aujourdhui.fr^
 ||nouvelle-plateforme-quantique.com^
 ||nouvelle-reference-info-plus.surge.sh^
 ||nouvelleanne.fr^
@@ -616132,6 +616191,7 @@ zzpwoning.com
 ||nqwamfuiardkj.space^
 ||nqwjmb.biz^
 ||nqwoxo.close.futureisready.com^
+||nqwpspahqsvjo.com^
 ||nqxdnmsp.com^
 ||nqxhehxadtswz.bid^
 ||nqxkz.instalovechats.com^
@@ -616461,7 +616521,6 @@ zzpwoning.com
 ||ns-dnstest.spyoff.com^
 ||ns-kg003.ocn.ad.jp^
 ||ns-kn003.ocn.ad.jp^
-||ns-profit.com^
 ||ns-r01.mopub.com^
 ||ns-r02.mopub.com^
 ||ns-r04.mopub.com^
@@ -617875,6 +617934,7 @@ zzpwoning.com
 ||nwaghtr.anchorhmo.com^
 ||nwajdf.zakzak.co.jp^
 ||nwajobs.com^
+||nwalk.jamoutside.com^
 ||nwamu.mooo.com^
 ||nwarktriynwek.store^
 ||nwave.de^
@@ -618071,6 +618131,7 @@ zzpwoning.com
 ||nxwm44neo.com^
 ||nxwsdzc.com^
 ||nxwugnuqhwxta.world^
+||nxxbqufakax.space^
 ||nxxbx.buzz^
 ||nxxgfdaervlym.com^
 ||nxxmqgohgl.com^
@@ -618699,7 +618760,6 @@ zzpwoning.com
 ||o5a9rf.cfd^
 ||o5b.dlun-7.ru^
 ||o5m7pa.sbs^
-||o5r.zap-kinetic.ru^
 ||o6.fl-0-wbud.ru^
 ||o6.skylintap.ru^
 ||o60vz7wc.com^
@@ -619710,6 +619770,7 @@ zzpwoning.com
 ||obvolvejacture.website^
 ||obvoqbvwoon.com^
 ||obvvk.diyanu.com^
+||obwakcqravc.com^
 ||obwguczcik.com^
 ||obwvmzdb.com^
 ||obwyfc.juwelo.fr^
@@ -619872,7 +619933,6 @@ zzpwoning.com
 ||ocelot.studio^
 ||ocenf.revolution-nutrition.com^
 ||oceniam.to^
-||ocenidtp.ru^
 ||ocenka34.ru^
 ||oceshnathy.com^
 ||oceuwezutqfcbx.com^
@@ -621306,6 +621366,7 @@ zzpwoning.com
 ||ofhappinyer.com^
 ||ofhau.mamannyc.com^
 ||ofheofosugusghuhushx.biz^
+||ofhghlgccwhwh.site^
 ||ofhisladyloveheh.com^
 ||ofhwyutlckjuul.bid^
 ||ofhypnoer.com^
@@ -621413,6 +621474,7 @@ zzpwoning.com
 ||ofyuxfqhsexkj.online^
 ||ofzaqfcrfyaqd.com^
 ||ofzate.live^
+||ofzhedafpmtzkwd.store^
 ||ofzoxqcldl.com^
 ||ofzqe.red-equipment.us^
 ||ofzrqtpcrvnet.online^
@@ -621983,6 +622045,7 @@ zzpwoning.com
 ||oieywzzbyztyn.website^
 ||oifeqfiurelhe.site^
 ||oiffrtkdgoef.com^
+||oiflrwnqpq.store^
 ||oiftdobow.bid^
 ||oifxrhsnoyufz.space^
 ||oigduusrva.com^
@@ -623011,9 +623074,8 @@ zzpwoning.com
 ||olx.pl-ofertaid08426105382634.shop^
 ||olx.pl-smart2806215.cfd^
 ||olx.pl-smart287482.cfd^
-||olx.pl-smart4124124.cfd^
-||olx.pl-smart742784.cfd^
 ||olx.pl-smart85478.cfd^
+||olx.pl-smart8547812.cfd^
 ||olx.pl-smart85789124.cfd^
 ||olx.pl-smartzakupy5372.shop^
 ||olx.pl-ver2196-id70456-cfi849u-cid71062.shop^
@@ -625603,6 +625665,7 @@ zzpwoning.com
 ||opentrafic.com^
 ||openunder.net^
 ||openurl.in^
+||openvehiclesses.cfd^
 ||openvenue.com^
 ||openvideoads.com^
 ||openvideoads.org^
@@ -625806,6 +625869,7 @@ zzpwoning.com
 ||opiekanadpsami.pl^
 ||opienetwork.com^
 ||opilbighorn.info^
+||opilodicty.digital^
 ||opilux.com^
 ||opim.pixmania.com^
 ||opinaquinq.pro^
@@ -626716,7 +626780,6 @@ zzpwoning.com
 ||orbit.odd-kraken.ru^
 ||orbit.proxyjet.ru^
 ||orbit.quartzflip.ru^
-||orbit1.miragepad.ru^
 ||orbit2.turbo-tap.ru^
 ||orbit8.dup-1-ic-4-ermaph.ru^
 ||orbit9.warpclutch.ru^
@@ -626895,6 +626958,7 @@ zzpwoning.com
 ||ordinaryspyimpassable.com^
 ||ordinghology.com^
 ||ordingly.com^
+||ordinmorse.digital^
 ||ordochbokstaver.com^
 ||ordosantaecrucis.com^
 ||ordsexecutiv.cfd^
@@ -626964,6 +627028,7 @@ zzpwoning.com
 ||org.zaloapp.ads.zdn.vn^
 ||orga29.com^
 ||orgamint.com^
+||organat.nl^
 ||organbq.courses^
 ||organic-compost-tumbler.com^
 ||organic.ly^
@@ -628186,7 +628251,6 @@ zzpwoning.com
 ||ottomanneath.digital^
 ||ottomax-new.com^
 ||ottomdisede.club^
-||ottomobilia.com^
 ||ottosconsi.pro^
 ||ottrix.com^
 ||ottud.mariemur.com^
@@ -629055,6 +629119,7 @@ zzpwoning.com
 ||overlay-track-prod01.sailthru.cloud^
 ||overlay.ringtonematcher.com^
 ||overliebaidya.help^
+||overlmasch.digital^
 ||overloadmaturespanner.com^
 ||overlookedpublic.pro^
 ||overlookedrisk.com^
@@ -632398,6 +632463,7 @@ zzpwoning.com
 ||pamphletsleazycivic.com^
 ||pampopholf.com^
 ||pampreklamath.com^
+||pamsedifekysnaljg.space^
 ||pamukresort.com^
 ||pamvc.sexymodest.com^
 ||pamwrymm.live^
@@ -632649,6 +632715,7 @@ zzpwoning.com
 ||panleniassj.info^
 ||pannen-shop.com^
 ||panneortod.pro^
+||pannerjerrids.help^
 ||panocero.com^
 ||panoeye.com.cn^
 ||panog.com^
@@ -634844,7 +634911,6 @@ zzpwoning.com
 ||pay.viiva-premios.top^
 ||pay.vivapagamento.com^
 ||pay.vivasorte.top^
-||pay.zepromo.delivery^
 ||pay2me.pl^
 ||pay4member.com^
 ||pay4results.ee^
@@ -635762,7 +635828,6 @@ zzpwoning.com
 ||pcsupport.com^
 ||pcsvy.voluumtrk.com^
 ||pcsx9.voluumtrk.com^
-||pct-exchange.com^
 ||pct-upd.info^
 ||pct.qualtrics.com^
 ||pctconsulting.com^
@@ -635881,7 +635946,6 @@ zzpwoning.com
 ||pdfconvertfree.com^
 ||pdfconverttools.com^
 ||pdfexpert.cc^
-||pdffacts.net^
 ||pdffilehub.net^
 ||pdffill.com^
 ||pdfhubtoday.com^
@@ -638271,7 +638335,6 @@ zzpwoning.com
 ||phantomlovely.net^
 ||phantomoo.com^
 ||phantomrbrookta.store^
-||phantomsecurepgp.com^
 ||phantomw.net^
 ||phapeteezeeckix.net^
 ||phara-rgm.com^
@@ -640021,6 +640084,7 @@ zzpwoning.com
 ||pinvf.australianopaldirect.com^
 ||pinyonexdie.help^
 ||pinzones.com^
+||piocemigra.digital^
 ||piogerazzu.pro^
 ||pioggimpan.pro^
 ||piohbdisp.hb.adx1.com^
@@ -640182,6 +640246,7 @@ zzpwoning.com
 ||pirojok.net^
 ||piroscorve.pro^
 ||pirosderel.pro^
+||pirouettessage.quippins.com^
 ||pirouque.com^
 ||pirox.eu^
 ||pirrmawcharger.click^
@@ -641624,6 +641689,7 @@ zzpwoning.com
 ||pl-3888519.cfd^
 ||pl-3888529.cfd^
 ||pl-431832858245828234982341-fast.click^
+||pl-432592434.sbs^
 ||pl-4381249.icu^
 ||pl-4492123.icu^
 ||pl-4538834655843945359494223232-fast.click^
@@ -641924,6 +641990,7 @@ zzpwoning.com
 ||pl-oferta-055634.rest^
 ||pl-oferta-0591362.rest^
 ||pl-oferta-2137651551-macbook-pro-2022-m2-89-kondycji.shop^
+||pl-oferta-23010-dyson-v15-detect-absolute.cfd^
 ||pl-oferta-37125.rest^
 ||pl-oferta-53243.rest^
 ||pl-oferta-64623.shop^
@@ -641970,6 +642037,7 @@ zzpwoning.com
 ||pl-oferta1184159671253-samsung-galaxy.shop^
 ||pl-oferta1243317.shop^
 ||pl-oferta1253362.shop^
+||pl-oferta12888-macbook-air-m1-16-512-gb.sbs^
 ||pl-oferta12888-macbook-air-m1.sbs^
 ||pl-oferta12933.cyou^
 ||pl-oferta1359697-samsung-odyssey-g9-2024.sbs^
@@ -642115,6 +642183,7 @@ zzpwoning.com
 ||pl-oferta7955561.shop^
 ||pl-oferta7983724.shop^
 ||pl-oferta79866387645-samsung-galaxy-tab-s8-set.shop^
+||pl-oferta8036019.sbs^
 ||pl-oferta8170857.shop^
 ||pl-oferta8182521.shop^
 ||pl-oferta825265312.shop^
@@ -642189,7 +642258,9 @@ zzpwoning.com
 ||pl-oferta86578.rest^
 ||pl-oferta867216.cfd^
 ||pl-oferta86816.cfd^
+||pl-oferta8704612.cfd^
 ||pl-oferta8708512-ipad-air-m3-wifi-2025.sbs^
+||pl-oferta8735809.cfd^
 ||pl-oferta8737291.com^
 ||pl-oferta883320.com^
 ||pl-oferta888773.com^
@@ -642224,7 +642295,6 @@ zzpwoning.com
 ||pl-oferta98751.cfd^
 ||pl-oferta9912270.com^
 ||pl-oferta991490299.sbs^
-||pl-oferta9929570.shop^
 ||pl-oferta99457.rest^
 ||pl-oferta9988709.shop^
 ||pl-oferta9998713567312.click^
@@ -642301,8 +642371,10 @@ zzpwoning.com
 ||pl-smart-zakupy24.shop^
 ||pl-smart-zakupy24h.shop^
 ||pl-smart3752644.cfd^
+||pl-smart3752744.cfd^
 ||pl-smart375284.cfd^
 ||pl-smart3752844.cfd^
+||pl-smart3757744.cfd^
 ||pl-smart578124.cfd^
 ||pl-smart725482.cfd^
 ||pl-smart9898209.cfd^
@@ -642966,6 +643038,7 @@ zzpwoning.com
 ||planarian.reverberate.org^
 ||planassemble.com^
 ||planbeez.com^
+||planblend.com^
 ||planblueprinter.com^
 ||planbuilder.digital^
 ||planbyte.digital^
@@ -644034,7 +644107,6 @@ zzpwoning.com
 ||playingmstop.my^
 ||playingonline.top^
 ||playingoutfitprofile.com^
-||playingworldinteresting.top^
 ||playinvaders.com^
 ||playio4.fr^
 ||playit2019.com^
@@ -645595,7 +645667,6 @@ zzpwoning.com
 ||poker4spain.com^
 ||pokerace.com^
 ||pokerbbs.com^
-||pokerbolds.top^
 ||pokerbonuscodes.com^
 ||pokercash4free.com^
 ||pokercc.com^
@@ -645773,7 +645844,6 @@ zzpwoning.com
 ||policism.com^
 ||policityseriod.info^
 ||policxu.courses^
-||policy-alert.com^
 ||policy-verification-meta.start.page^
 ||policy.bigfishgames.com^
 ||policy.catchyoutube.toptools100.com^
@@ -647719,6 +647789,7 @@ zzpwoning.com
 ||postsupport.net^
 ||postten-no.
 ||postthieve.com^
+||postti.click^
 ||posttica.blog^
 ||posttii-fi.
 ||postto.me^
@@ -648754,6 +648825,7 @@ zzpwoning.com
 ||prankhypom.digital^
 ||pranking12.ziyu.net^
 ||pranmcpkx.com^
+||pranzranch.digital^
 ||prapi.cision.com^
 ||prapp1env.ncfp.asia^
 ||prapp1env.nczc.asia^
@@ -649876,6 +649948,7 @@ zzpwoning.com
 ||prijava-logare.web.app^
 ||prikolizdesa.com^
 ||prikoly2016.ru^
+||prillheraus.qpon^
 ||prilon-94vesta.click^
 ||prilov-08tonex.click^
 ||prim7efusiongrid.biz^
@@ -650179,7 +650252,6 @@ zzpwoning.com
 ||printvella.com^
 ||printvenue.moengage.com^
 ||printwellservices.com^
-||printwithonestart.com^
 ||printwithwave.co^
 ||prio-coursier.com^
 ||prio-disptch.com^
@@ -656976,6 +657048,7 @@ zzpwoning.com
 ||punsong.com^
 ||punt-casino.fr^
 ||puntacoin.com^
+||puntadetur.digital^
 ||punteelaps.pro^
 ||punteunhit.pro^
 ||puntihemp.pro^
@@ -657140,7 +657213,6 @@ zzpwoning.com
 ||puretec.de^
 ||purethc.com^
 ||purething.pl^
-||puretime.info^
 ||puretrendslay.info^
 ||puretricity.com^
 ||purevideo.com^
@@ -657973,6 +658045,7 @@ zzpwoning.com
 ||pwekxhwrgpfr.com^
 ||pweopwidklskd.xyz^
 ||pwfb7w87ov.ru^
+||pwfgznqdiwerg.space^
 ||pwfkrb.icu^
 ||pwfwng.doncarlosresort.com^
 ||pwg.quifelenergy.com^
@@ -658836,7 +658909,6 @@ zzpwoning.com
 ||q5sn40kmp2.com^
 ||q5tn.1p-8s.ru^
 ||q5vt.shareurls.cc^
-||q5x.crystalcavern.ru^
 ||q5x.ru^
 ||q5ya.11u812580.online^
 ||q5z.nob0dy5yabky.ru^
@@ -659020,6 +659092,7 @@ zzpwoning.com
 ||qabmhhrfi.bid^
 ||qaburi.l-appart.net^
 ||qacdf511.cn^
+||qaclcufkb.space^
 ||qadabra.com^
 ||qadeqon.com^
 ||qadgb.directtoolsoutlet.com^
@@ -659849,6 +659922,7 @@ zzpwoning.com
 ||qghhm.allthingsgofestival.com^
 ||qghirkrh.bid^
 ||qghjk.com^
+||qghlslywcadzyyo.store^
 ||qghnxwkybpo.xyz^
 ||qghsnamd.bid^
 ||qghueehixspef.site^
@@ -659962,7 +660036,6 @@ zzpwoning.com
 ||qhchh.com^
 ||qhcsdqeebhabl.online^
 ||qhdast.com^
-||qhdfxkj.com^
 ||qhdhtd.com^
 ||qhdjyxcggzkm.com^
 ||qhdlakajcgcul.space^
@@ -660036,6 +660109,7 @@ zzpwoning.com
 ||qhxtrmbxmcirh.onlin^
 ||qhxtrmbxmcirh.online^
 ||qhzvvwblzrjc.com^
+||qi.br1ghtmist.ru^
 ||qi.ko-lu.ru^
 ||qi.sqfe6.ru^
 ||qi.svga3.ru^
@@ -663253,6 +663327,7 @@ zzpwoning.com
 ||qvid2.b-cdn.net^
 ||qvie2jqtezi86cu2xc3we5x5fyz.cfd^
 ||qvikar.com^
+||qvikbfmegyvbmlzvisqc.store^
 ||qvilmdus.com^
 ||qvir.cn^
 ||qvivzreleolawc.com^
@@ -663503,6 +663578,7 @@ zzpwoning.com
 ||qxauwo.sportisimo.ro^
 ||qxaz2xcw.com^
 ||qxb0v.com^
+||qxbbkohv.store^
 ||qxbkmxojrqwkb.online^
 ||qxbmg.com^
 ||qxbnmdjmymqa.com^
@@ -664630,6 +664706,7 @@ zzpwoning.com
 ||radar.imgsmail.ru^
 ||radar11ab.co.uk^
 ||radarconsultation.com^
+||radardps.online^
 ||radardps.site^
 ||radarkobiet.pl^
 ||radarnews.uodoo.com^
@@ -664989,6 +665066,7 @@ zzpwoning.com
 ||raimavalley.com^
 ||rain.4i1e2.ru^
 ||rain.ad^
+||rain.br-0-ad-temp-1-ate.ru^
 ||rain.rainharvestinggroup.com^
 ||rain.rainrad.ru^
 ||rain.watch^
@@ -666086,7 +666164,6 @@ zzpwoning.com
 ||raviontexk.cfd^
 ||raviontwsn.pics^
 ||raviral.com^
-||ravishl.qpon^
 ||ravishtim.shop^
 ||raviso.top^
 ||ravisrq.xyz^
@@ -667303,6 +667380,7 @@ zzpwoning.com
 ||realeyetracking.com^
 ||realflsh.xyz^
 ||realgastropub.com^
+||realgeniusestate.com^
 ||realgfsbucks.com^
 ||realgingerllc.com.de^
 ||realglimpse.icu^
@@ -667499,6 +667577,7 @@ zzpwoning.com
 ||reamerskltzgimoz.download^
 ||reamroofingtx.com^
 ||reamsofcryingfor.org^
+||reannoypucker.help^
 ||reaonq.xn--hdks770u8f0a8dvzft.net^
 ||reaper.pulse.inmobi.com^
 ||reappmohns.com^
@@ -669466,7 +669545,6 @@ zzpwoning.com
 ||reikiinfinitehealer.com^
 ||reikitherapy.net^
 ||reikitime.de^
-||reilemo.com^
 ||reim-weib-hr.github.io^
 ||reimaeduca.pro^
 ||reimage-express.com^
@@ -669720,7 +669798,6 @@ zzpwoning.com
 ||relacionpublicas.info^
 ||relai-client-suivi.fr^
 ||relaido.jp^
-||relais-aide-colis.com^
 ||relais-center.com^
 ||relais-clients.com^
 ||relais-fr-pickups.com^
@@ -669788,7 +669865,6 @@ zzpwoning.com
 ||relaxtheback.evergage.com^
 ||relaxtime24.biz^
 ||relaxtool.com^
-||relaxwave.info^
 ||relay-ad202052.net.anydesk.com^
 ||relay-ba.ads.httpool.com^
 ||relay-ba.toboads.com^
@@ -673585,6 +673661,7 @@ zzpwoning.com
 ||rigelink.com^
 ||rigercapot.pro^
 ||righesmooc.pro^
+||right-designers-445293.framer.app^
 ||right-end.com^
 ||right-press.com^
 ||rightanswers.actonservice.com^
@@ -673797,6 +673874,7 @@ zzpwoning.com
 ||rinceauendark.com^
 ||rinceprof.com^
 ||rinchsbacc.pro^
+||rinchsopra.digital^
 ||rincodesco.pro^
 ||rincoearth.com^
 ||rincofrigg.pro^
@@ -674019,7 +674097,6 @@ zzpwoning.com
 ||ripost.services^
 ||rippercasino.club^
 ||ripple-interactive.live^
-||ripple-legal.com^
 ||ripple-regulation.com^
 ||ripple-send.io^
 ||ripple.deliveryengine.adswizz.com^
@@ -674633,6 +674710,7 @@ zzpwoning.com
 ||rktwzc.webwave.dev^
 ||rkueifizvmwbi.com^
 ||rkuindgprvwyg.store^
+||rkvhqhkztzlxk.website^
 ||rkvpcjiuumbk.com^
 ||rkwlup.le-noble.com^
 ||rkwpgdnlwgg.bid^
@@ -676375,7 +676453,6 @@ zzpwoning.com
 ||rosegarden.online^
 ||roseincome.com^
 ||roselip-fetish.com^
-||roselive.icu^
 ||rosemand.pro^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
@@ -676696,6 +676773,7 @@ zzpwoning.com
 ||routeplausibleinjustice.com^
 ||routeplindusk.info^
 ||routeplus.info^
+||routequiet.findsidingpro.com^
 ||router-chef.firebaseapp.com^
 ||router-chef.web.app^
 ||router-logn.net^
@@ -679521,6 +679599,7 @@ zzpwoning.com
 ||rune.l2-1-w2.ru^
 ||rune.lindenarc.ru^
 ||rune.midnightkiefer.ru^
+||rune.netit-0-c-0-rec.ru^
 ||rune.oakensiegel.ru^
 ||rune.ottercrest.ru^
 ||rune.re5u7coundrel.ru^
@@ -680194,6 +680273,7 @@ zzpwoning.com
 ||rxddonvjictc.live^
 ||rxdevfrance.reedexpo.fr^
 ||rxdja.voluumtrk.com^
+||rxdunybeeeiilox.com^
 ||rxdxzb.top^
 ||rxe.526r.ru^
 ||rxeosevsso.com^
@@ -682736,7 +682816,6 @@ zzpwoning.com
 ||sadobemarketing.bodenusa.com^
 ||sadobemetrics.dr.dk^
 ||sadobemetrics.la-z-boy.com^
-||sadomoscow.store^
 ||sadostic.pl^
 ||sadppppppd.pages.dev^
 ||sadqa.innerbloomca.com^
@@ -683045,6 +683124,7 @@ zzpwoning.com
 ||sageshark.pro^
 ||sagetrc.com^
 ||sagevest.net^
+||sagfdqnzfp.com^
 ||saggerssefb.info^
 ||saggrowledetc.com^
 ||sagiaunbow.pro^
@@ -686978,7 +687058,6 @@ zzpwoning.com
 ||sda.online-systemy.cz^
 ||sda.seesaa.jp^
 ||sda.un-42.com^
-||sdabbkv.icu^
 ||sdac.lenovomm.com^
 ||sdacg.paulevansny.com^
 ||sdad.biz^
@@ -693107,7 +693186,6 @@ zzpwoning.com
 ||server2.cdneurops.health^
 ||server2.cdneurops.shop^
 ||server2.discountclick.com^
-||server2.filesdumpplace.org^
 ||server2.mediajmp.com^
 ||server2.nameiusr.com^
 ||server2.nisdably.com^
@@ -696667,7 +696745,6 @@ zzpwoning.com
 ||shawww55.weebly.com^
 ||shayandesign.ir^
 ||shayban.net^
-||shayblog.com^
 ||shayegan.net^
 ||shaypy.xyz^
 ||shayu.offerstrack.net^
@@ -697186,6 +697263,7 @@ zzpwoning.com
 ||shine-qcs.com^
 ||shine-s-school4.teachable.com^
 ||shine.com.global.prod.fastly.net^
+||shine.mintspr1ng.ru^
 ||shine.starshot.com^
 ||shine0.syc0aq8uy1.online^
 ||shinebliss.com^
@@ -699755,7 +699833,6 @@ zzpwoning.com
 ||silverhamster.com^
 ||silverhorizonq.cfd^
 ||silverisedxg.info^
-||silverithm-dispatch.store^
 ||silverjewelrycompany.com^
 ||silverk.qpon^
 ||silverlandinternational.com^
@@ -700257,6 +700334,7 @@ zzpwoning.com
 ||sinkhole-00.shadowserver.org^
 ||sinkintervalscozy.com^
 ||sinkou.tireshop.com.br^
+||sinkpdark.foundingfamilylines.com^
 ||sinkportal.com^
 ||sinkrersf.com^
 ||sinkrev.site^
@@ -700339,6 +700417,7 @@ zzpwoning.com
 ||sipmi.net^
 ||sipo-inc.com^
 ||sipo.com^
+||sipok.s3.eu-west-1.amazonaws.com^
 ||sipopwcalsc.com^
 ||sipp.pl^
 ||sippansy.com^
@@ -700761,7 +700840,6 @@ zzpwoning.com
 ||sitesense-oo.com^
 ||sitesfunny.com^
 ||sitesgpt.com^
-||sitesmash.online^
 ||sitesnapi.com^
 ||sitespectdata.112.2o7.net^
 ||sitespeed-elb-app-us-east-1-1586084437.us-east-1.elb.amazonaws.com^
@@ -702760,6 +702838,7 @@ zzpwoning.com
 ||smagllante.pro^
 ||smagnmulti.com^
 ||smagrcatal.pro^
+||smagrriamm.digital^
 ||smail.umeng.com^
 ||smaledirabol.com^
 ||smalidrags.pro^
@@ -703314,12 +703393,10 @@ zzpwoning.com
 ||smbcains.com^
 ||smbcard.verify.co.jp.tyu547.com^
 ||smbcmark.com^
-||smbcmehelp.com^
 ||smbcmei.com^
 ||smbcnhelp.carservicecoupons.com^
 ||smbcnikko.7q0k7l.top^
 ||smbcnikko.99dylt.top^
-||smbcnikko.xy8q24.top^
 ||smbcnikko.yilx7n.top^
 ||smbcrd.sbs^
 ||smbctenpo.link^
@@ -708292,6 +708369,7 @@ zzpwoning.com
 ||snudamanic.pro^
 ||snuea.coopsleepgoods.com^
 ||snuff-brownsprintcountry.com^
+||snuff.gr0ssgar.top^
 ||snuffarguments.com^
 ||snuffilm.com^
 ||snuffylampong.qpon^
@@ -708635,6 +708713,7 @@ zzpwoning.com
 ||socialworkcolumbia.co1.qualtrics.com^
 ||sociaplus.com^
 ||sociatemethio.club^
+||sociaurano.digital^
 ||sociecolmi.pro^
 ||socience.de^
 ||socieslentile.com^
@@ -708756,7 +708835,6 @@ zzpwoning.com
 ||sodabooster.com^
 ||sodahead.com^
 ||sodallay.com^
-||sodanews2.buzz^
 ||sodanews6.buzz^
 ||sodaodin.buzz^
 ||sodapaltrysystems.com^
@@ -710271,7 +710349,6 @@ zzpwoning.com
 ||soniveg.com^
 ||sonjaleiningersteamf4061.myclickfunnels.com^
 ||sonkransme.com^
-||sonne.frostgipfel.ru^
 ||sonne.helgahilft.com^
 ||sonnen-afinitor.com^
 ||sonnen-doribax-app.com^
@@ -711693,6 +711770,7 @@ zzpwoning.com
 ||spartantool.us^
 ||spartel.com^
 ||sparteo.com^
+||spartspign.digital^
 ||sparvor-limit.net^
 ||sparvorlimit.com^
 ||sparvorlimit.net^
@@ -712304,7 +712382,6 @@ zzpwoning.com
 ||spiderhannahresidential.com^
 ||spiderhood.net^
 ||spidermobi.com^
-||spiderrfight.shop^
 ||spidersboats.com^
 ||spidersearch.com^
 ||spidersense.bendingspoons.com^
@@ -714016,6 +714093,7 @@ zzpwoning.com
 ||sqmrhfoobvuolsh.store^
 ||sqnezuqjdbhe.com^
 ||sqnkkpba.com^
+||sqnygcjqlyex.space^
 ||sqnzz.ouasflpydty21tf.bapb.gdn^
 ||sqoo.co^
 ||sqopuafrwvnouz.bid^
@@ -717991,6 +718069,7 @@ zzpwoning.com
 ||stageschine.com^
 ||stageseshoals.com^
 ||stagesforget.com^
+||stagesmall.shop^
 ||stagesms.mcafee.com^
 ||stagesof.life^
 ||stagestrong.com^
@@ -719197,6 +719276,7 @@ zzpwoning.com
 ||start-space.com^
 ||start-trezor-hlp.pages.dev^
 ||start-trezor.squarespace.com^
+||start-walliet-trezor.vercel.app^
 ||start.adelaide.edu.au^
 ||start.adrecover.com^
 ||start.amateurcommunity.com^
@@ -719405,7 +719485,6 @@ zzpwoning.com
 ||stat-in.dc.oppomobile.com^
 ||stat-na01.tange365.com^
 ||stat-parser02.aatkit.com^
-||stat-public.fr^
 ||stat-pulse.com^
 ||stat-r1.1internet.tv^
 ||stat-r2.1internet.tv^
@@ -723944,6 +724023,7 @@ zzpwoning.com
 ||steigenberger01.webtrekk.net^
 ||stein.anvilklee.ru^
 ||stein.boulderfield.ru^
+||stein.co-0-peratre-4-er.ru^
 ||stein.flintwerder.ru^
 ||stein.quillgipfel.ru^
 ||steinmart.adlegend.com^
@@ -724188,6 +724268,7 @@ zzpwoning.com
 ||stern.fo0operate1.ru^
 ||stern.glimmerstrand.ru^
 ||stern.hearthwinkel.ru^
+||stern.hum-2-nk-0-str.ru^
 ||stern.kab-1-spr-0-tect.ru^
 ||stern.l1ghtcloud.ru^
 ||stern.l1ghtseed.ru^
@@ -724205,6 +724286,7 @@ zzpwoning.com
 ||stern.willowsteg.ru^
 ||stern.wolkenhof.ru^
 ||stern1.alderquartz.ru^
+||stern1.netit0c0rec.ru^
 ||sterncolor.pro^
 ||sternen-kind.de^
 ||sternenhoroskop.de^
@@ -724869,6 +724951,7 @@ zzpwoning.com
 ||storage.westinsinsurance.com^
 ||storage.yogavpn.com^
 ||storageauctionclub.com^
+||storagebook-pdf009-secustorage.mdbgo.io^
 ||storagedrive.pub^
 ||storageimagedisplay.com^
 ||storagelassitudeblend.com^
@@ -727233,6 +727316,7 @@ zzpwoning.com
 ||suivi-fra-livraisons.info^
 ||suivi-laposte.fr^
 ||suivi-livraison-relay.com^
+||suivi-livraison-relay.fr^
 ||suivi-livraison.support^
 ||suivi-matomo.fr^
 ||suivi-mondial-relay-fr.info^
@@ -729253,7 +729337,6 @@ zzpwoning.com
 ||sviliandro.pro^
 ||sviluppatore-wordpress.it^
 ||sviluppo.host^
-||svinacelia.pro^
 ||svincsilic.pro^
 ||svindel.info^
 ||sviphome.com^
@@ -730595,6 +730678,7 @@ zzpwoning.com
 ||swwcyk.aspor.com.tr^
 ||swwcyk.atv.com.tr^
 ||swwcyk.takvim.com.tr^
+||swwmskezpygym.website^
 ||swwpush.com^
 ||swwqmpjpvdbxsjos.com^
 ||swwsg.mylifemirror.com^
@@ -734533,6 +734617,7 @@ zzpwoning.com
 ||tal.falconmoor.ru^
 ||tal.frostweald.ru^
 ||tal.heatherpass.ru^
+||tal.hum-2-nk-0-str.ru^
 ||tal.lindenarc.ru^
 ||tal.p0lys5pear.ru^
 ||tal.pinewacht.ru^
@@ -734541,6 +734626,7 @@ zzpwoning.com
 ||tal.stormpeak.ru^
 ||tal.wlnd5hore.ru^
 ||tal2.deepstream.ru^
+||tal2.ele-6-tricmul-1-ed.ru^
 ||talab.org^
 ||talabux.ir^
 ||talandinvesting.com^
@@ -735880,9 +735966,11 @@ zzpwoning.com
 ||tau-portfolix.net^
 ||tau-portfolix.pro^
 ||tau-portfolixapp.com^
+||tau.br0adtemp1ate.ru^
 ||tau.cobaltspore.ru^
 ||tau.dawnforge.ru^
 ||tau.ec0nomyfl0.ru^
+||tau.ele6tricmul1ed.ru^
 ||tau.elmfalter.ru^
 ||tau.f0re5tline.ru^
 ||tau.fo0operate1.ru^
@@ -735890,6 +735978,7 @@ zzpwoning.com
 ||tau.ironweide.ru^
 ||tau.l1ghtseed.ru^
 ||tau.moonfenster.ru^
+||tau.netit0c0rec.ru^
 ||tau.polarhafen.ru^
 ||tau.quillgipfel.ru^
 ||tau.sagehollow.ru^
@@ -736171,7 +736260,6 @@ zzpwoning.com
 ||tbeiu658gftk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tbeouuheoyl.com^
 ||tbewvipgbgzal.com^
-||tbewwrn.yicp.io^
 ||tbex.ru^
 ||tbf92kdt.com^
 ||tbfgr.buzz^
@@ -738587,7 +738675,6 @@ zzpwoning.com
 ||teknikotel.com^
 ||teknikservisi.site^
 ||teknikvesanat.com^
-||teknobites.site^
 ||teknolivabt.com^
 ||teknologia.co^
 ||teknolojihaber.net^
@@ -740537,7 +740624,6 @@ zzpwoning.com
 ||teleowafgz.fit^
 ||teleowafgz.work^
 ||teleowafgz.xin^
-||telepaimentenligne.fr^
 ||teleparty-event-collector-1dc638-1422360718.us-east-1.elb.amazonaws.com^
 ||teleparty-usage-analytics-baa8a3-1882641526.us-east-1.elb.amazonaws.com^
 ||telepbna.com^
@@ -740864,6 +740950,7 @@ zzpwoning.com
 ||temdetudoaqui.com.br^
 ||temelio.com^
 ||temeljvaltrix.com^
+||temesnonsa.digital^
 ||temeupfjsi.club^
 ||temiakazon.com^
 ||temirtau-adm.ru^
@@ -742326,6 +742413,7 @@ zzpwoning.com
 ||tguyxzkrxgzqt.online^
 ||tguzugtyoh.com^
 ||tgvedmttabgfvy.bid^
+||tgvemcdefmv.store^
 ||tgvixcne5ts-faceb0ok.emochila.com^
 ||tgvotkmiszagu.site^
 ||tgw-masdk.3g.qq.com^
@@ -742865,7 +742953,6 @@ zzpwoning.com
 ||thebackoffice.website^
 ||thebaduratwins.com^
 ||thebainpushtu.com^
-||thebaksho.com^
 ||thebangalapee.com^
 ||thebangladeshtravel.com^
 ||thebank247.ga^
@@ -743183,7 +743270,6 @@ zzpwoning.com
 ||thefinancialadvisor.com^
 ||thefinxorgpt-updates.com^
 ||thefinxorgpt-updates.org^
-||thefirelinkauto.help^
 ||thefirstdata.com^
 ||thefishstops.com^
 ||theflager.com^
@@ -743314,6 +743400,7 @@ zzpwoning.com
 ||thehospiceguru.net^
 ||thehotelremain.com^
 ||thehotelsnetwork.com^
+||thehotelvalidate.com^
 ||thehottruck.com^
 ||thehouseof.net^
 ||thehuffingtonpost.trc.taboola.com^
@@ -744245,6 +744332,7 @@ zzpwoning.com
 ||thickbuffalo.pro^
 ||thickbullmastiff.pro^
 ||thickcash.com^
+||thickcherry.cyou^
 ||thickcicada.pro^
 ||thickcultivation.com^
 ||thickenzx.info^
@@ -746158,6 +746246,7 @@ zzpwoning.com
 ||tirethrustcasino.com^
 ||tiringbasin.com^
 ||tiringtucked.com^
+||tiroisbarb.digital^
 ||tirolanexpro-app.com^
 ||tirolanexproapp.com^
 ||tirolanexproengine.com^
@@ -747870,7 +747959,6 @@ zzpwoning.com
 ||toastpool.com^
 ||toastrowingthrilled.com^
 ||toastscubism.qpon^
-||toasttotaste.shop^
 ||toasttutor.com^
 ||toathiphigra.net^
 ||toawaups.net^
@@ -756432,6 +756520,7 @@ zzpwoning.com
 ||tradehublmx.com^
 ||tradei300-iplex.com^
 ||tradei6-duac.com^
+||tradei6duacsolution.com^
 ||tradeindiapoultry.com^
 ||tradeinn.fr^
 ||tradeinsiderreview.top^
@@ -757335,6 +757424,7 @@ zzpwoning.com
 ||trail-001.schleich-s.com^
 ||trail-web.com^
 ||trail.71baomu.com^
+||trail.br1ghtmist.ru^
 ||trail.dominiosistemas.com.br^
 ||trail.flintzoo.ru^
 ||trail.thomsonreuters.cn^
@@ -758568,7 +758658,6 @@ zzpwoning.com
 ||trendyartofliving.pl^
 ||trendychildfit.store^
 ||trendydailynewspulse.com^
-||trendylabportal.space^
 ||trendymumma.com^
 ||trendynests.pro^
 ||trendynewsfresh.com^
@@ -758726,6 +758815,7 @@ zzpwoning.com
 ||trezikhelm-gpt.net^
 ||trezikhelmgpt-system.com^
 ||trezioncoregptsoftware.com^
+||trezior-hardware-live.vercel.app^
 ||treziron-geargpt.com^
 ||trezirongeargpt.net^
 ||trezium.net^
@@ -759160,6 +759250,7 @@ zzpwoning.com
 ||triorisawe.vercel.app^
 ||triosdoryumkas.com^
 ||trioset.fun^
+||triossophic.rest^
 ||triowebsolutions.com^
 ||trip.buson.in^
 ||tripaadvisorvip.net^
@@ -763440,6 +763531,7 @@ zzpwoning.com
 ||twkbui.mansion-review.jp^
 ||twkqusbsxeenc.net^
 ||twkv.ru^
+||twkvetgiilegjwzxfo.store^
 ||twlcyc.cn^
 ||twld.cc^
 ||twld.top^
@@ -763523,6 +763615,7 @@ zzpwoning.com
 ||twowife.com^
 ||twpasol.com^
 ||twpcbx.ullapopken.at^
+||twpivgmppntrp.space^
 ||twproket.vip^
 ||twptxs.teknikhouse.se^
 ||twq.quifelenergy.com^
@@ -763950,6 +764043,7 @@ zzpwoning.com
 ||tyywkxynwfkoj.site^
 ||tyzfzrjaxxcg.com^
 ||tyzqxseppukus.review^
+||tyzrkxwumysch.site^
 ||tyzvz.lorex.uk^
 ||tyzynyi.com^
 ||tz-dsp.com^
@@ -765779,6 +765873,7 @@ zzpwoning.com
 ||ufer.thrushmere.ru^
 ||ufer.tundragrund.ru^
 ||ufer.wiidharbor.ru^
+||ufer1.hum-2-nk-0-str.ru^
 ||ufer1.inha4itmu1ti.ru^
 ||ufer1.moonfenster.ru^
 ||ufeuca.icu^
@@ -766993,6 +767088,7 @@ zzpwoning.com
 ||ulys-ajours.com^
 ||ulys-auto-vinci.com^
 ||ulys-autoroutes-fr.com^
+||ulys-badgefr.com^
 ||ulys-consignes.com^
 ||ulys-fr-telepeages.com^
 ||ulys-infos.com^
@@ -767009,6 +767105,7 @@ zzpwoning.com
 ||ulys-telepeage-france.com^
 ||ulysconnecte.com^
 ||ulysfrbadge.com^
+||ulysroutefr.com^
 ||ulysse-cazabonne.cam^
 ||ulystelepeage-trackinfo.com^
 ||ulyvjty4rd.com^
@@ -768655,6 +768752,7 @@ zzpwoning.com
 ||unlabeledmusic.com^
 ||unlamhanku.pro^
 ||unlashchaule.qpon^
+||unlaughlogos.rest^
 ||unlawful-judgment.com^
 ||unlawfulcream.com^
 ||unlawfuldamage.com^
@@ -769856,6 +769954,7 @@ zzpwoning.com
 ||uploads-cdn.chatlio.com^
 ||uploads.99ai.world^
 ||uploads.adbucks.com^
+||uploads.codesandbox.io^
 ||uploads.contextweb.com^
 ||uploads.tmweb.ru^
 ||uploadsfre.com^
@@ -770357,6 +770456,7 @@ zzpwoning.com
 ||urclive.help^
 ||urdap.forever21.com^
 ||urdatteplace.com^
+||urdeseining.qpon^
 ||ureace.com^
 ||ureakirintr.pro^
 ||urealath.com^
@@ -770795,7 +770895,6 @@ zzpwoning.com
 ||us.lgsmartad.com^
 ||us.linkury.com^
 ||us.lrd.yahoo.com^
-||us.mandates-ledger.com^
 ||us.mcyw2.shop^
 ||us.metrics.adswizz.com^
 ||us.mgid.com^
@@ -771859,6 +771958,7 @@ zzpwoning.com
 ||utfcusecureauth0z7i1.weebly.com^
 ||utfffrxmzuvy.com^
 ||utgckq.reductionrevolution.com.au^
+||utgowgfs.com^
 ||utgpsiesiotbx.website^
 ||utguco.webwave.dev^
 ||uthenxxnoisemaker.review^
@@ -772532,7 +772632,6 @@ zzpwoning.com
 ||uu8188.com^
 ||uu88i.com^
 ||uu930.top^
-||uu950.top^
 ||uuaajohul.com^
 ||uuaauw.com^
 ||uuacjdostjloa.bid^
@@ -772635,6 +772734,7 @@ zzpwoning.com
 ||uust.shop^
 ||uustoughtonma.org^
 ||uutdjp.brooks.co.jp^
+||uuteblpumnz.space^
 ||uutfeuxmqdvdp.com^
 ||uutwmrw7.cfd^
 ||uutytp.com^
@@ -772704,6 +772804,7 @@ zzpwoning.com
 ||uvfcrvk7l5pqa-0zuoyu4.work^
 ||uvffdmlqwmha.com^
 ||uvfnhhyoyd.xyz^
+||uvfoqrzqlpra.com^
 ||uvgtor.mustelashop.co.kr^
 ||uvgxhu.ezgif.com^
 ||uvgxhu.sharemods.com^
@@ -772968,6 +773069,7 @@ zzpwoning.com
 ||uxxyrwdudiacf.online^
 ||uxyofgcf.com^
 ||uxzbsinjyld.com^
+||uxzcfzgftzapgkhrz.space^
 ||uxzcwowjd.com^
 ||uxzkvkzxhxxjv.space^
 ||uxzrpvtqv.bid^
@@ -774059,6 +774161,7 @@ zzpwoning.com
 ||vahva-corebit.net^
 ||vahvacorebit.com^
 ||vahvacorebitplatform.com^
+||vaibhavtripathi.in^
 ||vaicore.site^
 ||vaicore.store^
 ||vaicore.xyz^
@@ -774164,6 +774267,7 @@ zzpwoning.com
 ||vale0.cinderloom.ru^
 ||vale3.fro5tlane.ru^
 ||vale4.w1ldforge.ru^
+||vale6.c1earwave.ru^
 ||valedaspecasdesmonte.com^
 ||valedavvero.com^
 ||valedospinheiros.com^
@@ -774780,7 +774884,6 @@ zzpwoning.com
 ||varang.ru^
 ||varansunde.pro^
 ||varbs.com^
-||vardancards.com^
 ||vardelynzor-app.com^
 ||vardelynzor.com^
 ||vardelynzor.net^
@@ -775772,7 +775875,6 @@ zzpwoning.com
 ||vdacizdywoe.com^
 ||vdangi.topshelfgolf.com^
 ||vdawecpymih.bid^
-||vdazz.net^
 ||vdbaa.com^
 ||vdbank.com.vn^
 ||vdbasihbxwea.com^
@@ -783776,8 +783878,8 @@ zzpwoning.com
 ||vinted.pl-oferta0304932342934.rest^
 ||vinted.pl-smart275384.cfd^
 ||vinted.pl-smart287482.cfd^
-||vinted.pl-smart742784.cfd^
 ||vinted.pl-smart85478.cfd^
+||vinted.pl-smart8547812.cfd^
 ||vinted.pl-smart958589.cfd^
 ||vinted.pl-zamowienie8423858367535732372253376.sbs^
 ||vinted.purchases034.com^
@@ -785283,6 +785385,7 @@ zzpwoning.com
 ||vkqfzlpowalv.com^
 ||vkqowkbmcjzin.online^
 ||vkqqetoprankkek.hop.ru^
+||vkquspgjjqt.space^
 ||vkrbl.faithgateway.com^
 ||vkrdts.finestore.ro^
 ||vkrgljxqn.com^
@@ -785425,7 +785528,6 @@ zzpwoning.com
 ||vlnaseyii.com^
 ||vlnbnmlwzndjm.space^
 ||vlnk.me^
-||vlnted.6324139.icu^
 ||vlnted.attestix.cfd^
 ||vlnted.form74271.world^
 ||vlnted.offer95821.help^
@@ -785614,7 +785716,6 @@ zzpwoning.com
 ||vmomentapi.apk.v-mate.mobi^
 ||vmonitor.ws.netease.com^
 ||vmp.boldchat.com^
-||vmphotograph.com^
 ||vmplayer2019.com^
 ||vmpsgpl.puniro.cfd^
 ||vmqbifesgqs.com^
@@ -786223,6 +786324,7 @@ zzpwoning.com
 ||vodwka1.weebly.com^
 ||voeuxcosmetics.com^
 ||voewasdc.org^
+||vofgpnpufdsbt.online^
 ||vofilmcu.icu^
 ||voftouweemsegie.net^
 ||vogac.com^
@@ -787094,7 +787196,6 @@ zzpwoning.com
 ||vpass-jp.ihkvo.cn^
 ||vpass-jp.iunqd.cn^
 ||vpass-jp.iutqn.cn^
-||vpass-jp.ivekh.cn^
 ||vpass-jp.jalqp.cn^
 ||vpass-jp.jcogu.cn^
 ||vpass-jp.jguaq.cn^
@@ -787206,7 +787307,6 @@ zzpwoning.com
 ||vpass-login.eawfcz.cn^
 ||vpass-login.egowp.cn^
 ||vpass-login.eltlp.cn^
-||vpass-login.gautb.cn^
 ||vpass-login.hogko.cn^
 ||vpass-login.imofr.cn^
 ||vpass-login.iywtm.cn^
@@ -787214,7 +787314,6 @@ zzpwoning.com
 ||vpass-login.kgujn.cn^
 ||vpass-login.lbbui.cn^
 ||vpass-login.mlczz.cn^
-||vpass-login.mpady.cn^
 ||vpass-login.muwhh.cn^
 ||vpass-login.nsbsf.cn^
 ||vpass-login.nxzbk.cn^
@@ -788013,6 +788112,7 @@ zzpwoning.com
 ||vtechmachinery.com^
 ||vtemaaftwexu.com^
 ||vtemlrnsqozri.site^
+||vtenc.nouvamatter.com^
 ||vtent.andbeyond.media^
 ||vtern.catherines.com^
 ||vtertotvision.pl^
@@ -788204,6 +788304,7 @@ zzpwoning.com
 ||vuimomo.club^
 ||vuimomo.fun^
 ||vuimomo.vin^
+||vuiyrvkcpm.store^
 ||vujfreafh.com^
 ||vujihie.com^
 ||vujkgxnalya.bid^
@@ -788556,6 +788657,7 @@ zzpwoning.com
 ||vvx.re7x.ru^
 ||vvxa.com^
 ||vvxgwsrfsefx.com^
+||vvxrgaalm.store^
 ||vvxxqpvylixke.store^
 ||vvyffpulokdxe.website^
 ||vvygnzor.com^
@@ -789952,6 +790054,7 @@ zzpwoning.com
 ||wald.cedarquelle.ru^
 ||wald.copperhang.ru^
 ||wald.harmfu1tw0.ru^
+||wald.hum2nk0str.ru^
 ||wald.in-ha-4-it-mu-1-ti.ru^
 ||wald.l2-1-w2.ru^
 ||wald.martenhain.ru^
@@ -789965,6 +790068,7 @@ zzpwoning.com
 ||wald.wlnd5hore.ru^
 ||wald.wolspfad.ru^
 ||wald3.mintstone.ru^
+||wald7.br0adtemp1ate.ru^
 ||walden.co1.qualtrics.com^
 ||waldenfarms.com^
 ||waldhaus-gronenberg.de^
@@ -791218,6 +791322,7 @@ zzpwoning.com
 ||wbtrkk.teufelaudio.it^
 ||wbtrkk.teufelaudio.nl^
 ||wbtrkk.teufelaudio.pl^
+||wbtvlxuwgcyvwdyj.store^
 ||wbtx.m-pages.com^
 ||wbtzciyvbektf.website^
 ||wbufuclb.com^
@@ -791280,7 +791385,6 @@ zzpwoning.com
 ||wci-fl.com^
 ||wcihajbpyo.com^
 ||wcinvde.top^
-||wciqlnbvexgb.top^
 ||wckaxzuhq.com^
 ||wcksovhmd.com^
 ||wckzhiatenjza.store^
@@ -791586,6 +791690,7 @@ zzpwoning.com
 ||wealay.com^
 ||weald.0akstream.ru^
 ||weald.auroralinde.ru^
+||weald.br-0-ad-temp-1-ate.ru^
 ||weald.cobaltquelle.ru^
 ||weald.ec0nomyfl0.ru^
 ||weald.echo6fern.ru^
@@ -792926,6 +793031,7 @@ zzpwoning.com
 ||webcon.se-legal.de^
 ||webconf.exponential.com^
 ||webconf.touchcommerce.com^
+||webconference.auth-verify.com^
 ||webconnect.net^
 ||webconnectline.com^
 ||webconomy01.webtrekk.net^
@@ -794324,6 +794430,7 @@ zzpwoning.com
 ||weiss.9reenpath.ru^
 ||weiss.cedarberg.ru^
 ||weiss.crystalrun.ru^
+||weiss.ele6tricmul1ed.ru^
 ||weiss.falconmoor.ru^
 ||weiss.ferretpfad.ru^
 ||weiss.granitehaven.ru^
@@ -797111,6 +797218,7 @@ zzpwoning.com
 ||wind.0zvel.online^
 ||wind.auricfluss.ru^
 ||wind.aurorafels.ru^
+||wind.awreti-3-uette.ru^
 ||wind.cairnsteg.ru^
 ||wind.cedarsteg.ru^
 ||wind.f1anerchan.ru^
@@ -797883,6 +797991,7 @@ zzpwoning.com
 ||wiwbv.buzz^
 ||wiwi-com-tw.b.appier.net^
 ||wiwi-treff.de.intellitxt.com^
+||wiwpyeyhgmiwhzv.space^
 ||wiwrutck.com^
 ||wix-105441.square.site^
 ||wix-engage-visitors-prod-16.firebaseio.com^
@@ -797969,6 +798078,7 @@ zzpwoning.com
 ||wjghanngbilui.space^
 ||wjglgkuyqhaguq.com^
 ||wjgohz.com^
+||wjgwxsggkfu.space^
 ||wjh.com^
 ||wjhanonquilpp.store^
 ||wjibjvgebkolf.space^
@@ -798014,7 +798124,6 @@ zzpwoning.com
 ||wjzyrk.magiclife.com^
 ||wk.aeropetarlies.com^
 ||wk.auctio.it.com^
-||wk.copperlattice.ru^
 ||wk.danawa.online^
 ||wk.educk.it.com^
 ||wk.euifvip.com^
@@ -798027,7 +798136,6 @@ zzpwoning.com
 ||wk.portalhous.com^
 ||wk.quetzalshrieks.com^
 ||wk.siacvip.com^
-||wk.sketch-loom.ru^
 ||wk.tckrtw.com^
 ||wk.trinkbinful.com^
 ||wk188.com^
@@ -798757,6 +798865,7 @@ zzpwoning.com
 ||wolfe.kab-1-spr-0-tect.ru^
 ||wolfe.nebulaquelle3.ru^
 ||wolfe.neighb0rrol1.ru^
+||wolfe.netit-0-c-0-rec.ru^
 ||wolfe.pixelbuche.ru^
 ||wolfeaddre.pro^
 ||wolfeighteen.com^
@@ -798811,6 +798920,8 @@ zzpwoning.com
 ||wolke.thunderkiesel.ru^
 ||wolke2.dis5h7gien.ru^
 ||wolke2.stormpeak.ru^
+||wolke3.awreti3uette.ru^
+||wolke3.br-0-ad-temp-1-ate.ru^
 ||wolke9.lindenarc.ru^
 ||wolkeledgerix-system.com^
 ||wolkenbruch-online.de^
@@ -799017,6 +799128,7 @@ zzpwoning.com
 ||woodeneducation.com^
 ||woodennanga.top^
 ||woodenoyster.pro^
+||woodenships-wholesale.com^
 ||woodenside.pro^
 ||woodfloorcovering.com^
 ||woodforestbanktexasusa.com^
@@ -800282,6 +800394,7 @@ zzpwoning.com
 ||writtingzone.com^
 ||wrjhekhmx.bid^
 ||wrjxoy.mnt.fr^
+||wrkleelmiejc.com^
 ||wrkxchcsdw.com^
 ||wrkzbwhm.bid^
 ||wrmcfyzl.com^
@@ -809685,15 +809798,12 @@ zzpwoning.com
 ||www2s.speedyperformanceparts.com^
 ||www2s.storage.com^
 ||www2s.usautoparts.net^
-||www3-vpass-jp.aoqvk.cn^
 ||www3-vpass-jp.jingrun360.com^
 ||www3-vpass-jp.lydlnbearing.com^
 ||www3-vpass-jp.pykes.cn^
-||www3-vpass-jp.qujuanle.com^
 ||www3-vpass-jp.rundejia.com^
 ||www3-vpass-jp.tushenbao.com^
 ||www3-vpass-jp.xyjmfuti.cn^
-||www3-vpass-jp.zhgph.com^
 ||www3-vpass-jp.zzdiou.com^
 ||www3-vpass.aetkzd.cn^
 ||www3-vpass.aggja.cn^
@@ -809703,7 +809813,6 @@ zzpwoning.com
 ||www3-vpass.blruj.cn^
 ||www3-vpass.bpcot.cn^
 ||www3-vpass.brwkcx.cn^
-||www3-vpass.changshitou.com^
 ||www3-vpass.cnxzzb.cn^
 ||www3-vpass.cscic.cn^
 ||www3-vpass.cwvnd.cn^
@@ -810997,7 +811106,6 @@ zzpwoning.com
 ||x2r.icetap.ru^
 ||x2tsa.com^
 ||x2tsa.com^$dnsrewrite=ad-block.dns.adguard.com
-||x2u4v.b3aconz.ru^
 ||x2uh4q4yxf.kameleoon.eu^
 ||x2w7.9-s-7g.ru^
 ||x2z.7aoasu3.ru^
@@ -812223,6 +812331,7 @@ zzpwoning.com
 ||xexklpgrsg.com^
 ||xexr.kiopeut.top^
 ||xexyc.com^
+||xey4.qu1ck.ru^
 ||xezyjwujbe.com^
 ||xf-yun.com^
 ||xf.burezresole.com^
@@ -812616,7 +812725,6 @@ zzpwoning.com
 ||xi.sexxxy.biz^
 ||xi.turnipyebbed.top^
 ||xi.txso-1.ru^
-||xi.v3ctorplum.ru^
 ||xi.z-99-l.ru^
 ||xi1111.com^
 ||xi7mxo.csb.app^
@@ -813214,6 +813322,7 @@ zzpwoning.com
 ||xlsffadx.shop^
 ||xlsfswiaqcrxc.xyz^
 ||xlspkqpnnqj.com^
+||xlsqakrxzzcngmla.store^
 ||xlsxattachmentpro.github.io^
 ||xltdqkwaamxgg.website^
 ||xltraff.net^
@@ -814145,7 +814254,7 @@ zzpwoning.com
 ||xn--albilet-b9a.pl-ofertaid08426105382634.shop^
 ||xn--albilet-b9a.pl-smart742784.cfd^
 ||xn--albilet-b9a.pl-smart85478.cfd^
-||xn--albilet-b9a.pl-zamowienie8423858367535732372253376.sbs^
+||xn--albilet-b9a.pl-smart8547812.cfd^
 ||xn--allyspin-casin-job.fr^
 ||xn--allyspincasin-8kb.fr^
 ||xn--altnoran-vkb.com.tr^
@@ -815126,7 +815235,6 @@ zzpwoning.com
 ||xsgpzbipelo.com^
 ||xshare.api.xiaomi.com^
 ||xsharenode.com^
-||xshby.com^
 ||xshellcn.com^
 ||xshop.com.tr^
 ||xshopum.net^
@@ -816535,6 +816643,7 @@ zzpwoning.com
 ||y7m2.k9-2g8.ru^
 ||y7m4.lweaq9b.ru^
 ||y7mf.3j5-y.ru^
+||y7mpmt.cyou^
 ||y7n.c34uu.ru^
 ||y7n.i50m.ru^
 ||y7n.m9i5l.ru^
@@ -816560,6 +816669,7 @@ zzpwoning.com
 ||y8lsyibocd.ru^
 ||y8m.6e5a5u3.ru^
 ||y8m2.lu2p.online^
+||y8mb.mintspr1ng.ru^
 ||y8n.uht-3-o.ru^
 ||y8nguw.close.futureisready.com^
 ||y8t4s2w.ru^
@@ -817069,6 +817179,7 @@ zzpwoning.com
 ||yaysave.ojrq.net^
 ||yazcash.com^
 ||yazhouyulewang.pydljx.cn^
+||yazilimcafe.com^
 ||yazilimgelistiricimerkezi.com^
 ||yazio-analytics.com^
 ||yazizim.com^
@@ -817572,6 +817683,7 @@ zzpwoning.com
 ||yellow-delivery.ru^
 ||yellow-humanities.gl.at.ply.gg^
 ||yellow-isp.de^
+||yellow-kerri-62.tiiny.site^
 ||yellow-resultsbidder.com^
 ||yellow.soju.openx.net^
 ||yellow500.com^
@@ -818100,7 +818212,6 @@ zzpwoning.com
 ||yie-cpj.pages.dev^
 ||yie4zooseif.info^
 ||yiedlsolana.com^
-||yiegbq.com^
 ||yield-allowance.com^
 ||yield-assets.com^
 ||yield-bankroll.com^
@@ -818513,6 +818624,7 @@ zzpwoning.com
 ||ykqpbuqpfjsh.com^
 ||ykrabkjoqurvl.online^
 ||ykrsorluybndt.website^
+||yktirexluziwjbakgqc.store^
 ||yktj.yzz.cn^
 ||yktkodofnikf.com^
 ||ykujsrbdcbridemaid.review^
@@ -819357,7 +819469,6 @@ zzpwoning.com
 ||yourhealth.sahealth.com^
 ||yourhealth.wellness.providence.org^
 ||yourhealthprofile.com^
-||yourherobnb.com^
 ||yourhitstats.com^
 ||yourhobby.ru^
 ||yourhotfeed.com^
@@ -819634,6 +819745,7 @@ zzpwoning.com
 ||ypby2.com^
 ||ypby4.com^
 ||ypby9.com^
+||ypccipkpazsawfwwcx.space^
 ||ypcdbw.drive2.com^
 ||ypcdbw.drive2.ru^
 ||ypcuhmevrq.bid^
@@ -819799,6 +819911,7 @@ zzpwoning.com
 ||yqutkbvrgvar.com^
 ||yquzkkmaqwkpr.online^
 ||yqvnmluzxjqmp.site^
+||yqvsyvnwtkfgqxnvkl.store^
 ||yqvxurmg.bid^
 ||yqw88.com^
 ||yqwu.jg-hoareau.fr^
@@ -820062,6 +820175,7 @@ zzpwoning.com
 ||ythemt.com^
 ||ythingy.com^
 ||ythkj.buzz^
+||ythousandm.lordsofthefallenmobile.com^
 ||ytihp.com^
 ||ytii.com^
 ||ytimgg.com^
@@ -820912,6 +821026,7 @@ zzpwoning.com
 ||yyw114.cn^
 ||yywbgs.pneumatiky.sk^
 ||yywflujrcwrcrio.net^
+||yywlgyfeorxojt.space^
 ||yyxknmmvdvv.bid^
 ||yyxntcpxxvtpuk.com^
 ||yyxpearkrincp.site^
@@ -822172,6 +822287,7 @@ zzpwoning.com
 ||zatong.icaniwill.se^
 ||zatrlsov.com^
 ||zattslaw.com^
+||zatzbhnlac.com^
 ||zatznotfunny.us.intellitxt.com^
 ||zatzy.com^
 ||zaufaliverenta.my^
@@ -822567,6 +822683,7 @@ zzpwoning.com
 ||zdd-9.com^
 ||zddsnuxow.icu^
 ||zddsswwqqqqxw.hyperphp.com^
+||zddwfoobjkdpqkmt.store^
 ||zddxlih.com^
 ||zde-affinity.edgecaching.net^
 ||zde-engage.com^
@@ -823273,7 +823390,6 @@ zzpwoning.com
 ||zerion-inc.webflow.io^
 ||zerioncc.pl^
 ||zerjin.com^
-||zerkaya.net^
 ||zerki.com^
 ||zerknij-tv.pl^
 ||zermeo.com^
@@ -823474,6 +823590,7 @@ zzpwoning.com
 ||zexironblink-aiplatform.com^
 ||zexironblinkai.name^
 ||zexironblinkaiapp.net^
+||zexjfmzgxyrcnuuza.store^
 ||zexmoa.qchicken.com.tw^
 ||zexory.online^
 ||zextworks.co.jp^
@@ -824341,6 +824458,7 @@ zzpwoning.com
 ||zipitfast.com^
 ||zipitnow.cfd^
 ||ziplink.uk^
+||ziply.pk^
 ||zipmailinfoupdate.weebly.com^
 ||zipmonster.biz^
 ||zipmonster.ru^
@@ -825050,6 +825168,7 @@ zzpwoning.com
 ||zncnwv.qa.apartmentguide.com^
 ||zncvgjh8lmjxbkyln-fmrpi.siteintercept.qualtrics.com^
 ||zndaowjdnf.stream^
+||zndrynunpk.space^
 ||zndsssp.dangbei.net^
 ||znedscsenlrql0rxd-teslamotors.siteintercept.qualtrics.com^
 ||zneeigrjrdeylpwtv-wiley.siteintercept.qualtrics.com^
@@ -826262,6 +826381,7 @@ zzpwoning.com
 ||ztarkm.johnnie-o.com^
 ||ztavm.apothekenaratgeber.com^
 ||ztbbpz.betten.de^
+||ztbfkwbdyoi.store^
 ||ztc-tobe.com^
 ||ztcadx.com^
 ||ztctourupmhin.today^

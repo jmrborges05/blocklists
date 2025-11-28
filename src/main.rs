@@ -81,7 +81,13 @@ async fn download_and_process_lists(blocklists: &Vec<(&str, &str)>) -> Result<(H
         match future.await {
             Ok(Ok((list_name, lines))) => {
                 all_lines.insert(format!("Blocklist -> {}", list_name));
+                
                 for line in lines {
+                    // Skip AdGuard Home config comments
+                    if line.starts_with('!') || line.starts_with('#') {
+                        continue;
+                    }
+
                     if !seen_lines.insert(line.clone()) {
                         duplicates.insert(line.clone());
                     }
@@ -97,6 +103,7 @@ async fn download_and_process_lists(blocklists: &Vec<(&str, &str)>) -> Result<(H
             }
         }
     }
+
     let mut duplicates_vec: Vec<String> = duplicates.into_iter().collect();
     duplicates_vec.sort();
     Ok((all_lines, duplicates_vec))

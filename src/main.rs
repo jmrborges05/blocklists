@@ -17,22 +17,22 @@ async fn main() -> Result<()> {
         ("AWAvenue Ads Rule", "https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt"),
         ("Scam Blocklist by DurableNapkin", "https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt"),
         ("Dandelion Sprout's Anti-Malware List", "https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt"),
-        ("uBlock₀ filters – Badware risks", "https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt"),
+        ("uBlock₀ figit alters – Badware risks", "https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt"),
         ("Steven Black's List", "https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt"),
         ("Tv block ad", "https://raw.githubusercontent.com/hkamran80/blocklists/main/smart-tv.txt"),
         ("HaGeZi's Apple Tracker DNS Blocklist", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt"),
         ("HaGeZi's Windows/Office Tracker DNS Blocklist", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt"),
         // Big lists
-        // ("Hagezi multi pro", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"),
-        // ("The Block List Project - Ads List (adguard)", "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"),
+        ("Hagezi multi pro", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"),
+        ("The Block List Project - Ads List (adguard)", "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"),
         ("Adguard filter Portugal", "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt"),
         ("The Block List Project - Tracking List (adguard)", "https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt"),
         ("chapeubranco / filtros trackers", "https://codeberg.org/chapeubranco/filtros/raw/branch/master/filtros/filtros-trackers.txt"),
         ("Lista Anti Nónio", "https://raw.githubusercontent.com/brunomiguel/antinonio/refs/heads/master/antinonio-adguard.txt"),
         ("Easy List - cookies notice", "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt"),
-        // ("The Block List Project - Ads List (adguard)", "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"),
-        // ("The Block List Project - Scam List (adguard)", "https://blocklistproject.github.io/Lists/adguard/scam-ags.txt"),
-        // ("The Block List Project - Malware List (adguard)", "https://blocklistproject.github.io/Lists/adguard/malware-ags.txt"),
+        ("The Block List Project - Ads List (adguard)", "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"),
+        ("The Block List Project - Scam List (adguard)", "https://blocklistproject.github.io/Lists/adguard/scam-ags.txt"),
+        ("The Block List Project - Malware List (adguard)", "https://blocklistproject.github.io/Lists/adguard/malware-ags.txt"),
     ];
 
     let (all_lines, duplicates) = download_and_process_lists(&blocklists).await?;

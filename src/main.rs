@@ -54,7 +54,6 @@ async fn main() -> Result<()> {
     }
 
     fs::write(output_path, combined.as_bytes())?;
-    println!("Combined deduplicated list written to {} with {} unique lines", output_path, sorted_lines.len());
 
     // Print duplicated entries
     if !duplicates.is_empty() {
@@ -65,6 +64,8 @@ async fn main() -> Result<()> {
     } else {
         println!("\nNo duplicated entries found.");
     }
+
+    println!("Combined deduplicated list written to {} with {} unique lines", output_path, sorted_lines.len());
 
     Ok(())
 }

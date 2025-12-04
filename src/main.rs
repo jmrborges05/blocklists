@@ -33,6 +33,12 @@ async fn main() -> Result<()> {
         ("The Block List Project - Ads List (adguard)", "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"),
         ("The Block List Project - Scam List (adguard)", "https://blocklistproject.github.io/Lists/adguard/scam-ags.txt"),
         ("The Block List Project - Malware List (adguard)", "https://blocklistproject.github.io/Lists/adguard/malware-ags.txt"),
+        ("https://github.com/ph00lt0/blocklist", "https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt"),
+        ("Peter Lowe's Blocklist", "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext"),
+        ("HaGeZi's Xiaomi Tracker Blocklist", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt"),
+        ("Phishing URL Blocklist (PhishTank and OpenPhish", "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt"),
+        ("HaGeZi's Allowlist Referral", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt"),
+        ("HaGeZi's Samsung Tracker Blocklist", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt")
     ];
 
     let (all_lines, duplicates) = download_and_process_lists(&blocklists).await?;
@@ -85,7 +91,7 @@ async fn download_and_process_lists(blocklists: &Vec<(&str, &str)>) -> Result<(H
                 
                 for line in lines {
                     // Skip AdGuard Home config comments
-                    if line.starts_with('!') || line.starts_with('#') {
+                    if line.starts_with('!') {
                         continue;
                     }
 

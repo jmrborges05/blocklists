@@ -4,7 +4,7 @@ use anyhow::{Result, anyhow};
 
 #[tokio::main]
 async fn main() -> Result<()> {
-    let blocklists = vec![
+   let blocklists = vec![
         ("AdGuard DNS filter", "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"),
         ("AdAway Default Blocklist", "https://adaway.org/hosts.txt"),
         ("Phishing URL Blocklist (PhishTank and OpenPhish)", "https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt"),
@@ -22,7 +22,6 @@ async fn main() -> Result<()> {
         ("Tv block ad", "https://raw.githubusercontent.com/hkamran80/blocklists/main/smart-tv.txt"),
         ("HaGeZi's Apple Tracker DNS Blocklist", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt"),
         ("HaGeZi's Windows/Office Tracker DNS Blocklist", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt"),
-        // Big lists
         ("Hagezi multi pro", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"),
         ("The Block List Project - Ads List (adguard)", "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"),
         ("Adguard filter Portugal", "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt"),
@@ -30,16 +29,27 @@ async fn main() -> Result<()> {
         ("chapeubranco / filtros trackers", "https://codeberg.org/chapeubranco/filtros/raw/branch/master/filtros/filtros-trackers.txt"),
         ("Lista Anti Nónio", "https://raw.githubusercontent.com/brunomiguel/antinonio/refs/heads/master/antinonio-adguard.txt"),
         ("Easy List - cookies notice", "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt"),
-        ("The Block List Project - Ads List (adguard)", "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"),
         ("The Block List Project - Scam List (adguard)", "https://blocklistproject.github.io/Lists/adguard/scam-ags.txt"),
         ("The Block List Project - Malware List (adguard)", "https://blocklistproject.github.io/Lists/adguard/malware-ags.txt"),
         ("https://github.com/ph00lt0/blocklist", "https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt"),
         ("Peter Lowe's Blocklist", "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext"),
-        ("HaGeZi's Xiaomi Tracker Blocklist", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt"),
         ("Phishing URL Blocklist (PhishTank and OpenPhish", "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt"),
         ("HaGeZi's Allowlist Referral", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt"),
-        ("HaGeZi's Samsung Tracker Blocklist", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt")
+        ("HaGeZi's Samsung Tracker Blocklist", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt"),
+        ("MajkiIT SmartTV-ads", "https://blocklist.sefinek.net/generated/v1/adguard/ads/MajkiIT/SmartTV-ads.fork.txt"),
+        ("blocklistproject malware", "https://blocklist.sefinek.net/generated/v1/adguard/malicious/blocklistproject/malware.fork.txt"),
+        ("phishing", "https://blocklist.sefinek.net/generated/v1/adguard/malicious/phishing.txt"),
+        ("quidsup notrack-malware", "https://blocklist.sefinek.net/generated/v1/adguard/malicious/quidsup/notrack-malware.fork.txt"),
+        ("reported-by-norton", "https://blocklist.sefinek.net/generated/v1/adguard/malicious/reported-by-norton.txt"),
+        ("RPiList Malware", "https://blocklist.sefinek.net/generated/v1/adguard/malicious/RPiList/Malware.fork.txt"),
+        ("RPiList Phishing-Angriffe", "https://blocklist.sefinek.net/generated/v1/adguard/phishing/RPiList/Phishing-Angriffe.fork.txt"),
+        ("durablenapkin scamblocklist", "https://blocklist.sefinek.net/generated/v1/adguard/scam/durablenapkin/scamblocklist.fork.txt"),
+        ("FadeMind add-Spam", "https://blocklist.sefinek.net/generated/v1/adguard/spam/FadeMind/add-Spam.fork.txt"),
+        ("RPiList spam-mails", "https://blocklist.sefinek.net/generated/v1/adguard/spam/RPiList/spam-mails.fork.txt"),
+        ("FadeMind add-Risk", "https://blocklist.sefinek.net/generated/v1/adguard/suspicious/FadeMind/add-Risk.fork.txt"),
+        ("frogeye firstparty-trackers-hosts", "https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt"),
     ];
+
 
     let (all_lines, duplicates) = download_and_process_lists(&blocklists).await?;
 
@@ -57,10 +67,7 @@ async fn main() -> Result<()> {
 
     // Print duplicated entries
     if !duplicates.is_empty() {
-        println!("\nDuplicated Entries:");
-        for dup in duplicates {
-            println!("{}", dup);
-        }
+        println!("\nNumber of duplicted entries {}", duplicates.len());
     } else {
         println!("\nNo duplicated entries found.");
     }
@@ -135,6 +142,6 @@ async fn download_list(name: &str, url: &str) -> Result<(String, Vec<String>)> {
         .map(|line| line.to_string())
         .collect();
 
-    println!("Successfully downloaded {} lines from {}", lines.len(), url);
+    println!("Successfully downloaded {}, {} lines from {}", name.to_string(), lines.len(), url);
     Ok((name.to_string(), lines))
 }

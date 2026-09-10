@@ -48,6 +48,7 @@ async fn main() -> Result<()> {
         ("RPiList spam-mails", "https://blocklist.sefinek.net/generated/v1/adguard/spam/RPiList/spam-mails.fork.txt"),
         ("FadeMind add-Risk", "https://blocklist.sefinek.net/generated/v1/adguard/suspicious/FadeMind/add-Risk.fork.txt"),
         ("frogeye firstparty-trackers-hosts", "https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt"),
+        ("SmartTV-AGH" ,"https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/refs/heads/master/SmartTV-AGH.txt")
     ];
 
 
